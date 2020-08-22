@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="F:\case study\RetailBankManagement\venv"
+VIRTUAL_ENV="C:\Users\Krut\Desktop\SportsPrediction\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

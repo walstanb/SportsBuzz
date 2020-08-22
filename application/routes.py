@@ -5,8 +5,9 @@ from application.models import *
 from datetime import date
 
 
-@app.route("/index", methods=['GET', 'POST'])
+@app.route("/", methods=['GET', 'POST'])
 def index():
-    return render_template("index.html")
+    results = db.team_schedule.find({"AwayTeam":"Man City"})
+    return render_template("index.html", results = results)
 
 
