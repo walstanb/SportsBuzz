@@ -8,6 +8,6 @@ from datetime import date
 @app.route("/", methods=['GET', 'POST'])
 def index():
     results = db.team_schedule.find()
-    return render_template("index.html", results = results)
+    return render_template("football.html", results = results)
 
 

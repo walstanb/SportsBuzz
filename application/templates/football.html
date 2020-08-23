@@ -1,12 +1,15 @@
-<html>
-<body>
-	<table>
+{% extends "includes/master.html" %}
+{% block content %}
+<div>	
+	<table class="table table-striped">
+		<thead>
 		<tr>
 			<td>Home Team</td>
 			<td>Away Team</td>
 			<td>Date</td>
 			<td>Time</td>
 		</tr>
+		</thead>
 		{% for result in results %}
 		<tr>
 			<td>{{ result.HomeTeam }}</td>
@@ -16,7 +19,9 @@
 		</tr>
 		{% endfor %}
 	</table>
-	
-	
-
-</body>
+</div>	
+<div>
+    <a href="#" class="btn btn-primary">Previous</a>
+    <a href="#" class="btn btn-secondary">Next</a>
+</div>
+{% endblock %}
