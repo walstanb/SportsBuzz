@@ -7,7 +7,14 @@ from datetime import date
 
 @app.route("/", methods=['GET', 'POST'])
 def index():
-    results = db.team_schedule.find()
-    return render_template("index.html", results = results)
+    player_stats=[]
+    [player_stats.append(x) for x in db.Epl_player_img.find()]
+    teamdict={}
+    for x in player_stats:
+        if x['Club'] not in teamdict.keys():
+            teamdict[x['Club']]="f"+str(id(x['Club']))
+    
+    return render_template("playerstats-football.html",player_stats=player_stats,teamdict=teamdict)
+
 
 
