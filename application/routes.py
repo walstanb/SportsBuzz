@@ -5,8 +5,14 @@ from application.models import *
 from datetime import date
 pagecounter = 0
 
-@app.route("/", methods=['GET', 'POST'])
+
+@app.route("/",methods=['GET', 'POST'])
 def index():
+    return render_template("index.html")
+
+
+@app.route("/schedule", methods=['GET', 'POST'])
+def schedule():
     global pagecounter
     skips=0
     number=5
