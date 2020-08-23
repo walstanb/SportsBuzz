@@ -2,13 +2,13 @@
 {% block content %}
 
 <style>
-   .accordion .card-header:after {
+.accordion .card-header .btn:after {
     font-family: 'Font Awesome 5 Free';
     font-weight: 900; 
     content: "\f106";
     float: right; 
 }
-.accordion .card-header.collapsed:after {
+.accordion .card-header .btn.collapsed:after {
     /* symbol for "collapsed" panels */
     font-family: 'Font Awesome 5 Free';
     font-weight: 900; 
@@ -18,52 +18,112 @@
 
 <!--link href="../static/css/playerstats-football.css" rel="stylesheet"-->
 
-<div class="container mt-4">
+<div class="container-lg mt-4">
     <div class="bd-example bd-example-tabs">
     <div class="row">
-        <div class="col-3">
+
+        <!-- Left Side Menu -->
+        <div class="col-xl-auto">
         <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
             <a class="nav-link" id="v-pills-international-tab" data-toggle="pill" href="#v-pills-international" role="tab" aria-controls="v-pills-international" aria-selected="false">International</a>
             <a class="nav-link active show" id="v-pills-leagues-tab" data-toggle="pill" href="#v-pills-leagues" role="tab" aria-controls="v-pills-leagues" aria-selected="true">Leagues</a>
         </div>
         </div>
-        <div class="col-9">
-        <div class="tab-content" id="v-pills-tabContent">
-            <div class="tab-pane fade" id="v-pills-international" role="tabpanel" aria-labelledby="v-pills-international-tab">
-            
-            <!-- Accordion START -->
-            <!-- Accordion END -->
 
-            </div>
-            <div class="tab-pane fade active show" id="v-pills-leagues" role="tabpanel" aria-labelledby="v-pills-leagues-tab">
-            <h1>Teams</h1>&nbsp
-            <!-- Accordion START -->
-            <div class="container">
-                <div id="accordion" class="accordion">
-                    <div class="card mb-0">
+        <!-- Righ Side Content-->
+        <div class="col">
+            <div class="tab-content" id="v-pills-tabContent">
+
+                <!-- International -->
+                <div class="tab-pane fade" id="v-pills-international" role="tabpanel" aria-labelledby="v-pills-international-tab">
+                    <h1>Teams</h1>&nbsp
+                    <!-- Accordion START -->
+                    
+                    <!-- Accordion END -->
+                </div>
+
+                <!-- Leagues -->
+                <div class="tab-pane fade active show" id="v-pills-leagues" role="tabpanel" aria-labelledby="v-pills-leagues-tab">
+                    <h1>Teams</h1>&nbsp
+                    <!-- Accordion START -->
+
+                    <div class="accordion" id="accordionOne">
                         {% for team in teamdict.keys() %}
-                        <div class="card-header collapsed" data-toggle="collapse" data-parent="#accordion" href='#{{teamdict[team]}}'>
-                            <a class="card-title"> {{team}} </a>
-                        </div>
-                        <div id='{{teamdict[team]}}' class="card-body collapse" data-parent="#accordion">
-                            <ul class="list-group list-group-flush">
-                            {% for player in player_stats%}
-                                {% if player['Club']==team%}
-                                    <li class="list-group-item">
-                                        {{player['Name']}}
-                                    </li>
-                                {% endif %}
-                            {% endfor %}
-                            </ul>
-                        </div>
+                            <div class="card">
+                                <!-- Card Header -->
+                                <div class="card-header" id="headingOne">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target='#{{teamdict[team]}}' aria-expanded="true" aria-controls="collapseOne">
+                                    {{team}}
+                                    </button>
+                                </h2>
+                                </div>
+                                
+                                <!-- Card Body -->
+                                <div id="{{teamdict[team]}}" class="collapse" aria-labelledby="headingOne" data-parent="#accordionOne">
+                                <div class="card-body">
+                                    <ul class="list-group list-group-flush">
+                                        <div class="accordion" id="accordionTwo">                         
+                                            {% for player in player_stats%}
+                                                {% if player['Club']==team%}
+                                                    <li class="list-group-item" style="border: 0px;  border-bottom: 1px solid rgba(0, 0, 0, 0.125);">
+                                                        <div class="card" style="border: 0px;">
+                                                            <!-- Card Header -->
+                                                            <div class="card-header px-1 py-1" id="headingTwo" style="margin-bottom: 0; background-color: #ffffff; border-bottom: 0px;">
+                                                            <h2 class="mb-0">
+                                                                <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target='#f{{player['Id']}}' aria-expanded="true" aria-controls="collapseTwo">
+                                                                {{player['Name']}}
+                                                                </button>
+                                                            </h2>
+                                                            </div>
+
+                                                            <!-- Card Body -->
+                                                            <div id="f{{player['Id']}}" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionTwo">
+                                                            <div class="card-body">
+
+                                                                <div class="container">
+                                                                    <div class="row mx-auto">
+                                                                        <div class="col-sm-auto mx-auto" style="text-align:center">
+                                                                            <img src="https://www.gstatic.com/tv/thumb/persons/983712/983712_v9_ba.jpg" class="rounded" height="240px">
+
+                                                                        </div>
+                                                                        <div class="col ml-4">
+                                                                            <div class="row">
+                                                                                <h2>{{player['Name']}}</h2>
+                                                                            </div>
+                                                                            <div class="row">
+                                                                                <div class="col">Country: {{player['Country']}}</div>
+                                                                                <div class="col">Position: {{player['Position']}}</div>
+                                                                                <div class="col">Country: {{player['Country']}}</div>
+                                                                                <div class="col">Country: {{player['Country']}}</div>
+                                                                                <div class="col">Country: {{player['Country']}}</div>
+                                                                                <!--  Country:"Netherlands" Position : "CB" Age : "27" Overall : "91" Height : "6'4"" Weight : "203lbs" foot : "Right"BP: "CB" Club : "Liverpool"-->
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+
+                                                                
+                                                            </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                {% endif %}
+                                            {% endfor %}
+                                        </div>
+                                    </ul>
+                                </div>
+                                </div>
+                            </div>
                         {% endfor %}
                     </div>
+
+                    <!-- Accordion END -->
                 </div>
-            </div>
-            <!-- Accordion END -->
+
             </div>
         </div>
-        </div>
+        
     </div>
     </div>
 </div>
