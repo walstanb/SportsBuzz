@@ -14,22 +14,24 @@ def index():
 def schedule(id=0):
     
     skips=0
-    '''
-    if(id == '-1'):
-        pagecounter -= 1
-    if(id == '1'):
-        pagecounter += 1
-    '''
+    
     pagecounter = int(id)
-    print(pagecounter)
-    count = db.team_schedule.objects.count()
-    skips = 11 * pagecounter
+    if pagecounter>=0:
+        count = db.team_schedule.count()
+        skips = 10 * pagecounter
+        if skips>count:
+            pagecounter=0
+            skips=0
+            flash("Last Page")
+    elif pagecounter< 0:
+        pagecounter=0
+        skips=0
+        flash("First Page. Cannot get previous data")
+
     results = db.team_schedule.find().skip(skips).limit(11)
     
-    if(skips > count):
-        pagecounter = 0
-        skips = 0
     
-    return render_template("football.html", results = results,i=int(id))
+    
+    return render_template("football.html", results = results,i=pagecounter)
 
 

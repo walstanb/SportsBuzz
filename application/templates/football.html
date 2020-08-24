@@ -1,8 +1,15 @@
 {% extends "includes/master.html" %}
 {% block content %}
-<div>	
+<div>
+	{% with messages = get_flashed_messages() %}  
+		{% if messages %}  
+			{% for message in messages %}  
+				<p>{{ message }}</p>  
+			{% endfor %}  
+		{% endif %}  
+ 	{% endwith %}  	
 	<table class="table table-bordered table-striped table-hover">
-		<thead>
+		<thead class="table table-dark">
 		<tr>
 			<td>Home Team</td>
 			<td>Away Team</td>
@@ -19,9 +26,15 @@
 		</tr>
 		{% endfor %}
 	</table>
+	<table class="table table">
+		<tr>
+			<td><a href="{{ url_for('schedule', id = i-1)}}"><button class="btn btn-outline-primary btn-block">Previous</button></a></td>
+			<td><a href="{{ url_for('schedule', id = i+1)}}"><button class="btn btn-outline-secondary btn-block">Next</button></a></td>
+		</tr>
+
+	</table>
 </div>	
-<div>
-	<button><a href="{{ url_for('schedule', id = i-1)}}">Previous</a></button>
-	<button><a href="{{ url_for('schedule', id = i+1)}}">Next</a></button>
-</div>
+
+	
+
 {% endblock %}
