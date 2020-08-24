@@ -23,7 +23,7 @@
     <div class="row">
 
         <!-- Left Side Menu -->
-        <div class="col-xl-auto">
+        <div class="col-lg-3 pb-3">
         <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
             <a class="nav-link" id="v-pills-international-tab" data-toggle="pill" href="#v-pills-international" role="tab" aria-controls="v-pills-international" aria-selected="false">International</a>
             <a class="nav-link active show" id="v-pills-leagues-tab" data-toggle="pill" href="#v-pills-leagues" role="tab" aria-controls="v-pills-leagues" aria-selected="true">Leagues</a>
@@ -79,31 +79,31 @@
 
                                                             <!-- Card Body -->
                                                             <div id="f{{player['Id']}}" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionTwo">
-                                                            <div class="card-body">
-
-                                                                <div class="container">
-                                                                    <div class="row mx-auto">
-                                                                        <div class="col-sm-auto mx-auto" style="text-align:center">
-                                                                            <img src="https://www.gstatic.com/tv/thumb/persons/983712/983712_v9_ba.jpg" class="rounded" height="240px">
-
+                                                            <div class="card-body" style="border-top: 1px solid rgba(0, 0, 0, 0.125)">
+                                                                    <div class="row">
+                                                                        <div class="col-md-4" style="text-align:center">
+                                                                            <img class="pr-lg-4" src="https://www.gstatic.com/tv/thumb/persons/983712/983712_v9_ba.jpg" class="rounded" height="240px">
                                                                         </div>
-                                                                        <div class="col ml-4">
-                                                                            <div class="row">
+
+                                                                        <div class="col-md-8 pl-md-3">
+                                                                            <div class="row mt-3 pb-md-5 pb-3">
                                                                                 <h2>{{player['Name']}}</h2>
                                                                             </div>
-                                                                            <div class="row">
+
+                                                                            <div class="row pt-md-5">
                                                                                 <div class="col">Country: {{player['Country']}}</div>
-                                                                                <div class="col">Position: {{player['Position']}}</div>
-                                                                                <div class="col">Country: {{player['Country']}}</div>
-                                                                                <div class="col">Country: {{player['Country']}}</div>
-                                                                                <div class="col">Country: {{player['Country']}}</div>
-                                                                                <!--  Country:"Netherlands" Position : "CB" Age : "27" Overall : "91" Height : "6'4"" Weight : "203lbs" foot : "Right"BP: "CB" Club : "Liverpool"-->
+                                                                                <div class="col">Position:{{player['Position']}}</div>
+                                                                            </div>
+
+                                                                            <div class="row pt-md-2">
+                                                                                <div class="col px-1 py-2">Age: {{player['Age']}}</div>
+                                                                                <div class="col px-1 py-2">Overall: {{player['Overall']}}</div>
+                                                                                <div class="col px-1 py-2">Height: {{player['Height']}}</div>
+                                                                                <div class="col px-1 py-2">Weight: {{player['Weight']}}</div>
+                                                                                <div class="col px-1 py-2">BP: {{player['BP']}}</div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
-                                                                </div>
-
-                                                                
                                                             </div>
                                                             </div>
                                                         </div>
