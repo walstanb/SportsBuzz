@@ -20,7 +20,7 @@ def schedule(id=0):
     if(id == '1'):
         pagecounter += 1
     '''
-    pagecounter = id
+    pagecounter = int(id)
     print(pagecounter)
     count = db.team_schedule.objects.count()
     skips = 11 * pagecounter
@@ -30,6 +30,6 @@ def schedule(id=0):
         pagecounter = 0
         skips = 0
     
-    return render_template("football.html", results = results)
+    return render_template("football.html", results = results,i=int(id))
 
 
