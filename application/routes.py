@@ -14,7 +14,7 @@ def index():
 @app.route("/football/teams", methods=['GET', 'POST'])
 def teambrowser():
     player_stats=[]
-    [player_stats.append(x) for x in db.Epl_player_img.find()]
+    [player_stats.append(x) for x in db.epl20playerdata.find()]
     teamdict={}
     for x in player_stats:
         if x['Club'] not in teamdict.keys():
