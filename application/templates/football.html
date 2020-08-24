@@ -21,7 +21,8 @@
 	</table>
 </div>	
 <div>
-	<button><a href="{{ url_for('schedule', id='-1')}}">Previous</a></button>
-	<button><a href="{{ url_for('schedule', id='1')}}">Next</a></button>
+	{% set i = 0 %}
+	<button><a href="{{ url_for('schedule', id = {{ i-1 }} )}}">Previous</a></button>
+	<button><a href="{{ url_for('schedule', id = {{i+1}} )}}">Next</a></button>
 </div>
 {% endblock %}
