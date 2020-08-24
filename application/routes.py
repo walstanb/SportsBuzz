@@ -15,11 +15,17 @@ def index():
 def schedule():
     global pagecounter
     skips=0
-    number=5
-    if (pagecounter+number>1):
-        skips = 11 * (pagecounter+number)
-        pagecounter += number
 
+    form1 = next()
+    form = prev()
+    if form.on_submit():
+        pagecounter-=1
+    if form1.on_submit():
+        pagecounter+=1
+    
+    
+    skips = 11 * pagecounter
+        
     results = db.team_schedule.find().skip(skips).limit(11)
     return render_template("football.html", results = results)
 
