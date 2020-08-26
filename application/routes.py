@@ -15,7 +15,10 @@ def index():
 @app.route("/football_teams/<tab>", methods=['GET', 'POST'])
 def football_teams(tab="leagues"):
     player_stats=[]
-    [player_stats.append(x) for x in db.epl20playerdata.find()]
+    if tab=="leagues":
+        [player_stats.append(x) for x in db.epl20playerdata.find()]
+    elif tab=="international":
+        [player_stats.append(x) for x in db.epl20playerdata.find()]
     teamdict={}
     for x in player_stats:
         if x['Club'] not in teamdict.keys():
@@ -23,7 +26,7 @@ def football_teams(tab="leagues"):
     rp=list(teamdict.keys())
     teamz=rp[0]
     
-    return render_template("playerstats-football.html",player_stats=player_stats, teamdict=teamdict, teamz=teamz)
+    return render_template("playerstats-football.html",player_stats=player_stats, teamdict=teamdict, teamz=teamz, tab=tab)
 
 
 
