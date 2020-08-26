@@ -1,5 +1,4 @@
 {% extends "includes/master.html" %}
-<head><title>Football - Schedule</title></head>
 {% block content %}
 <div>
 	{% with messages = get_flashed_messages() %}  
@@ -11,31 +10,41 @@
 			{% endfor %}  
 		{% endif %}  
  	{% endwith %}  	
-	<table class="table table-bordered table-striped table-hover" style="text-align: center;">
-		<thead class="table table-dark">
-		<tr>
-			<td style="width: 25%;">Home Team</td>
-			<td style="width: 25%;">Away Team</td>
-			<td style="width: 25%;">Date</td>
-			<td style="width: 25%;">Time</td>
-		</tr>
-		</thead>
-		{% for result in results %}
-		<tr>
-			<td>{{ result.HomeTeam }}</td>
-			<td>{{ result.AwayTeam }}</td>
-			<td>{{ result.Date }}</td>
-			<td>{{ result.Time }}</td>
-		</tr>
-		{% endfor %}
-	</table>
-	<table class="table table">
-		<tr>
-			<td style="width: 50%;"><a href="{{ url_for('schedule', id = i-1)}}"><button class="btn btn-outline-primary btn-block">Previous</button></a></td>
-			<td style="width: 50%;"><a href="{{ url_for('schedule', id = i+1)}}"><button class="btn btn-outline-primary btn-block">Next    </button></a></td>
-		</tr>
-
-	</table>
+	<div >
+		<table class="table table-bordered table-striped table-hover" style="text-align: center;">
+			<thead class="table table-dark">
+			<tr>
+				<td style="width: 25%;">Home Team</td>
+				<td style="width: 25%;">Away Team</td>
+				<td style="width: 25%;">Date</td>
+				<td style="width: 25%;">Time</td>
+			</tr>
+			</thead>
+			{% for result in results %}
+			<tr>
+				<td>{{ result.HomeTeam }}</td>
+				<td>{{ result.AwayTeam }}</td>
+				<td>{{ result.Date }}</td>
+				<td>{{ result.Time }}</td>
+			</tr>
+			{% endfor %}
+		</table>
+		
+	</div>
+	
+	<div class="container">
+		<ul class="pagination justify-content-center">
+			<li class="page-item">
+			  <a class="page-link" href="{{ url_for('schedule', id = i-1)}}" tabindex="-1">Previous</a>
+			</li>
+			<li class="page-item"><a class="page-link" href="{{ url_for('schedule', id = 0)}}">1</a></li>
+			<li class="page-item"><a class="page-link" href="{{ url_for('schedule', id = 1)}}">2</a></li>
+			<li class="page-item"><a class="page-link" href="{{ url_for('schedule', id = 2)}}">3</a></li>
+			<li class="page-item">
+			  <a class="page-link" href="{{ url_for('schedule', id = i+1)}}">Next</a>
+			</li>
+		  </ul>
+	</div>
 </div>	
 
 	
