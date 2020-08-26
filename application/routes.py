@@ -11,9 +11,9 @@ def index():
     return render_template("index.html") 
 
 
-@app.route("/football/teams", methods=['GET', 'POST'])
-@app.route("/football/teams/<tab>", methods=['GET', 'POST'])
-def teambrowser(tab="leagues"):
+@app.route("/football_teams", methods=['GET', 'POST'])
+@app.route("/football_teams/<tab>", methods=['GET', 'POST'])
+def football_teams(tab="leagues"):
     player_stats=[]
     [player_stats.append(x) for x in db.epl20playerdata.find()]
     teamdict={}
