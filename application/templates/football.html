@@ -1,20 +1,23 @@
 {% extends "includes/master.html" %}
+<head><title>Football - Schedule</title></head>
 {% block content %}
 <div>
 	{% with messages = get_flashed_messages() %}  
 		{% if messages %}  
 			{% for message in messages %}  
-				<p>{{ message }}</p>  
+				<div class="alert alert-warning alert-dismissible fade show" role="alert">{{ message }}<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				  </button></div>  
 			{% endfor %}  
 		{% endif %}  
  	{% endwith %}  	
-	<table class="table table-bordered table-striped table-hover">
+	<table class="table table-bordered table-striped table-hover" style="text-align: center;">
 		<thead class="table table-dark">
 		<tr>
-			<td>Home Team</td>
-			<td>Away Team</td>
-			<td>Date</td>
-			<td>Time</td>
+			<td style="width: 25%;">Home Team</td>
+			<td style="width: 25%;">Away Team</td>
+			<td style="width: 25%;">Date</td>
+			<td style="width: 25%;">Time</td>
 		</tr>
 		</thead>
 		{% for result in results %}
@@ -28,8 +31,8 @@
 	</table>
 	<table class="table table">
 		<tr>
-			<td><a href="{{ url_for('schedule', id = i-1)}}"><button class="btn btn-outline-primary btn-block">Previous</button></a></td>
-			<td><a href="{{ url_for('schedule', id = i+1)}}"><button class="btn btn-outline-secondary btn-block">Next</button></a></td>
+			<td style="width: 50%;"><a href="{{ url_for('schedule', id = i-1)}}"><button class="btn btn-outline-primary btn-block">Previous</button></a></td>
+			<td style="width: 50%;"><a href="{{ url_for('schedule', id = i+1)}}"><button class="btn btn-outline-primary btn-block">Next    </button></a></td>
 		</tr>
 
 	</table>

@@ -19,14 +19,14 @@ def schedule(id=0):
     if pagecounter>=0:
         count = db.team_schedule.count()
         skips = 10 * pagecounter
-        if skips>count:
+        if skips>=count:
             pagecounter=0
             skips=0
-            flash("Last Page")
+            flash("No more data. Returning to first page")
     elif pagecounter< 0:
         pagecounter=0
         skips=0
-        flash("First Page. Cannot get previous data")
+        flash("First Page. No previous data found")
 
     results = db.team_schedule.find().skip(skips).limit(11)
     
