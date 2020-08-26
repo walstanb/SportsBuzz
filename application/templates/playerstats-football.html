@@ -1,0 +1,130 @@
+{% extends "includes/master.html" %}
+{% block content %}
+
+<style>
+.accordion .card-header .btn:after {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900; 
+    content: "\f106";
+    float: right; 
+}
+.accordion .card-header .btn.collapsed:after {
+    /* symbol for "collapsed" panels */
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900; 
+    content: "\f107"; 
+}
+</style>
+
+<!--link href="../static/css/playerstats-football.css" rel="stylesheet"-->
+
+<div class="container-lg mt-4">
+    <div class="bd-example bd-example-tabs">
+    <div class="row">
+
+        <!-- Left Side Menu -->
+        <div class="col-lg-3 pb-3">
+        <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+        
+        {% if tab=="international"%}
+            <a class="nav-link active show" id="v-pills-international-tab" href="{{ url_for('football_teams', tab='international') }}">International</a>
+            <a class="nav-link" id="v-pills-leagues-tab" href="{{ url_for('football_teams', tab='leagues') }}">Leagues</a>
+        {% elif tab=="leagues"%}
+            <a class="nav-link" id="v-pills-international-tab" href="{{ url_for('football_teams', tab='international') }}">International</a>
+            <a class="nav-link active show" id="v-pills-leagues-tab" href="{{ url_for('football_teams', tab='leagues') }}">Leagues</a>
+        {% endif %}
+        </div>
+        </div>
+
+        <!-- Righ Side Content-->
+        <div class="col">
+            <div class="tab-content" id="v-pills-tabContent">
+
+                <!-- Information Data -->
+                <div class="tab-pane fade active show" id="v-pills-leagues" role="tabpanel" aria-labelledby="v-pills-leagues-tab">
+                    <h1>Teams</h1>&nbsp
+                    <!-- Accordion START -->
+
+                    <div class="accordion" id="accordionOne">
+                        {% for team in teamdict.keys() %}
+                            <div class="card">
+                                <!-- Card Header -->
+                                <div class="card-header" id="headingOne">
+                                <h2 class="mb-0">
+                                    <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target='#{{teamdict[team]}}' aria-expanded="true" aria-controls="collapseOne">
+                                    {{team}}
+                                    </button>
+                                </h2>
+                                </div>
+                                
+                                <!-- Card Body -->
+                                <div id="{{teamdict[team]}}" class="collapse" aria-labelledby="headingOne" data-parent="#accordionOne">
+                                <div class="card-body">
+                                    <ul class="list-group list-group-flush">
+                                        <div class="accordion" id="accordionTwo">                         
+                                            {% for player in player_stats%}
+                                                {% if player['Club']==team%}
+                                                    <li class="list-group-item" style="border: 0px;  border-bottom: 1px solid rgba(0, 0, 0, 0.125);">
+                                                        <div class="card" style="border: 0px;">
+                                                            <!-- Card Header -->
+                                                            <div class="card-header px-0 py-0" id="headingTwo" style="margin-bottom: 0; background-color: #ffffff; border-bottom: 0px;">
+                                                            <h2 class="mb-0">
+                                                                <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target='#f{{player['Id']}}' aria-expanded="true" aria-controls="collapseTwo">
+                                                                <img class="pr-lg-4" src="../static/{{player['Image']}}60.png" class="rounded" height="30px">&nbsp{{player['Name']}}
+                                                                </button>
+                                                            </h2>
+                                                            </div>
+
+                                                            <!-- Card Body -->
+                                                            <div id="f{{player['Id']}}" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionTwo">
+                                                            <div class="card-body" style="border-top: 1px solid rgba(0, 0, 0, 0.125)">
+                                                                    <div class="row">
+                                                                        <div class="col-md-4" style="text-align:center">
+                                                                            <img class="pr-lg-4" src="../static/{{player['Image']}}240.png" class="rounded">
+                                                                        </div>
+
+                                                                        <div class="col-md-8 pl-md-3">
+                                                                            <div class="row mt-3 pb-md-5 pb-3">
+                                                                                <h2>{{player['Name']}}</h2>
+                                                                            </div>
+
+                                                                            <div class="row pt-md-5">
+                                                                                <div class="col">Country: {{player['Country']}}</div>
+                                                                                <div class="col">Position:{{player['Position']}}</div>
+                                                                            </div>
+
+                                                                            <div class="row pt-md-2">
+                                                                                <div class="col px-1 py-2">Age: {{player['Age']}}</div>
+                                                                                <div class="col px-1 py-2">Overall: {{player['Overall']}}</div>
+                                                                                <div class="col px-1 py-2">Height: {{player['Height']}}</div>
+                                                                                <div class="col px-1 py-2">Weight: {{player['Weight']}}</div>
+                                                                                <div class="col px-1 py-2">BP: {{player['BP']}}</div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                            </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                {% endif %}
+                                            {% endfor %}
+                                        </div>
+                                    </ul>
+                                </div>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+
+                    <!-- Accordion END -->
+                </div>
+
+            </div>
+        </div>
+        
+    </div>
+    </div>
+</div>
+
+
+{% endblock %}
