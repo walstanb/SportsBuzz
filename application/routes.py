@@ -3,7 +3,7 @@ from flask import render_template, flash, redirect, request
 from application.forms import *
 from application.models import *
 from datetime import date
-
+from math import floor
 
 @app.route("/",methods=['GET', 'POST'])
 def index():
@@ -14,15 +14,16 @@ def index():
 def schedule(id=0):
     
     skips=0
-    
+    pages= int()
     pagecounter = int(id)
     if pagecounter>=0:
         count = db.team_schedule.count()
+        pages=floor(count/10)
         skips = 10 * pagecounter
         if skips>=count:
-            pagecounter=0
-            skips=0
-            flash("No more data. Returning to first page")
+            pagecounter-=1
+            skips=10* pagecounter
+            flash("No more data")
     elif pagecounter< 0:
         pagecounter=0
         skips=0
@@ -31,7 +32,7 @@ def schedule(id=0):
     results = db.team_schedule.find().skip(skips).limit(11)
     
     
-    
-    return render_template("football.html", results = results,i=pagecounter)
+    print (pages)
+    return render_template("football.html", results = results,i=pagecounter,p=pages)
 
 
