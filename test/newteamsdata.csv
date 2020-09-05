@@ -1,0 +1,762 @@
+team_id,team_name,country,flag_id,league_id,league_name,ovr,att,mid,def,transfer_budget,no_of_players,hits
+1876,River Plate,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),77,78,78,77,€14.2M,35,64
+1877,Boca Juniors,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),76,75,76,76,€15M,31,56
+101085,Racing Club,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),76,78,76,75,€9.5M,28,49
+110093,Independiente,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),74,74,73,74,€10M,26,30
+110396,Newell's Old Boys,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),71,69,71,71,€4M,28,28
+1013,San Lorenzo de Almagro,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),73,75,73,73,€8.5M,26,25
+101088,Vélez Sarsfield,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),73,73,73,73,€5.3M,28,25
+110395,Club Atlético Lanús,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),73,75,72,71,€7.5M,28,25
+111707,Club Atlético Aldosivi,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),68,68,67,67,€500K,28,25
+101083,Estudiantes de La Plata,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),72,70,74,72,€5M,28,18
+110404,Club Atlético Banfield,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),71,71,72,69,€4.1M,28,14
+112670,Club Atlético Talleres,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),72,74,72,70,€5.2M,28,13
+110406,Club Atlético Colón,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),73,76,73,72,€4M,28,12
+111710,Defensa y Justicia,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),72,72,72,71,€3.2M,28,12
+110580,Rosario Central,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),71,73,71,72,€6M,28,9
+101084,Gimnasia y Esgrima La Plata,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),70,69,69,70,€3.2M,28,8
+111708,Atlético Tucumán,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),70,72,70,69,€2.9M,28,8
+111019,Argentinos Juniors,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),70,72,67,71,€2.8M,28,7
+111706,Godoy Cruz,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),69,70,66,68,€5M,28,7
+111711,Club Atlético Huracán,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),70,67,67,67,€4.8M,28,7
+110394,Arsenal de Sarandí,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),71,71,72,71,€2.1M,28,6
+111716,Unión de Santa Fe,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),71,72,71,70,€3M,28,5
+112965,Central Córdoba,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),67,69,67,64,€2.1M,28,5
+110581,Patronato,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),68,68,67,68,€2.8M,28,2
+111715,Club Atlético Tigre,Argentina,ar,id2618452230344869645,Argentina Primera División  (1),66,64,60,64,€3.5M,29,1
+111766,Wellington Phoenix,Australia,au,id5884617962450476165,Australian Hyundai A-League (1),66,71,66,67,€2M,25,24
+111400,Sydney FC,Australia,au,id5884617962450476165,Australian Hyundai A-League (1),66,68,68,65,€2M,22,17
+112224,Melbourne City FC,Australia,au,id5884617962450476165,Australian Hyundai A-League (1),66,71,67,65,€2M,22,11
+112427,Western Sydney Wanderers,Australia,au,id5884617962450476165,Australian Hyundai A-League (1),65,65,68,63,€2M,25,11
+111399,Perth Glory,Australia,au,id5884617962450476165,Australian Hyundai A-League (1),66,69,67,66,€2M,25,10
+111397,Melbourne Victory,Australia,au,id5884617962450476165,Australian Hyundai A-League (1),65,68,64,66,€2M,23,9
+114023,Western United FC,Australia,au,id5884617962450476165,Australian Hyundai A-League (1),65,69,62,63,€2M,25,9
+111393,Adelaide United,Australia,au,id5884617962450476165,Australian Hyundai A-League (1),64,65,66,63,€2M,25,6
+111396,Central Coast Mariners,Australia,au,id5884617962450476165,Australian Hyundai A-League (1),63,62,63,62,€2M,23,5
+111395,Brisbane Roar,Australia,au,id5884617962450476165,Australian Hyundai A-League (1),63,64,63,62,€2M,24,4
+111398,Newcastle Jets,Australia,au,id5884617962450476165,Australian Hyundai A-League (1),64,64,66,64,€2M,25,2
+191,FC Red Bull Salzburg,Austria,at,id876191113801048116,Austrian Football Bundesliga (1),73,74,73,73,€13.8M,25,88
+111822,Wolfsberger AC,Austria,at,id876191113801048116,Austrian Football Bundesliga (1),68,67,68,68,€625K,27,23
+254,SK Rapid Wien,Austria,at,id876191113801048116,Austrian Football Bundesliga (1),69,70,69,69,€5.2M,27,14
+256,FK Austria Wien,Austria,at,id876191113801048116,Austrian Football Bundesliga (1),67,69,67,66,€4.7M,27,14
+252,LASK Linz,Austria,at,id876191113801048116,Austrian Football Bundesliga (1),70,70,70,71,€3.2M,27,12
+209,SK Sturm Graz,Austria,at,id876191113801048116,Austrian Football Bundesliga (1),69,70,68,69,€5.1M,25,8
+15009,SCR Altach,Austria,at,id876191113801048116,Austrian Football Bundesliga (1),65,67,65,64,€1.8M,27,6
+15040,WSG Tirol,Austria,at,id876191113801048116,Austrian Football Bundesliga (1),65,66,64,65,€555K,25,5
+112075,SKN St. Pölten,Austria,at,id876191113801048116,Austrian Football Bundesliga (1),64,66,64,63,€2.7M,27,5
+1785,SV Mattersburg,Austria,at,id876191113801048116,Austrian Football Bundesliga (1),64,65,65,63,€2.2M,26,4
+2017,TSV Hartberg,Austria,at,id876191113801048116,Austrian Football Bundesliga (1),65,69,65,65,€1.5M,27,3
+111821,FC Admira Wacker Mödling,Austria,at,id876191113801048116,Austrian Football Bundesliga (1),65,68,65,64,€2.8M,27,2
+229,RSC Anderlecht,Belgium,be,id7106335703257813040,Belgian Jupiler Pro League (1),73,72,73,69,€16.2M,28,76
+231,Club Brugge KV,Belgium,be,id7106335703257813040,Belgian Jupiler Pro League (1),76,73,77,77,€13.5M,27,50
+673,KRC Genk,Belgium,be,id7106335703257813040,Belgian Jupiler Pro League (1),73,73,72,73,€8.5M,28,44
+674,KAA Gent,Belgium,be,id7106335703257813040,Belgian Jupiler Pro League (1),74,76,74,73,€12.5M,26,43
+232,Standard de Liège,Belgium,be,id7106335703257813040,Belgian Jupiler Pro League (1),72,72,74,72,€8.5M,28,34
+680,Sint-Truidense VV,Belgium,be,id7106335703257813040,Belgian Jupiler Pro League (1),68,68,68,68,€1.8M,28,33
+230,Royal Antwerp FC,Belgium,be,id7106335703257813040,Belgian Jupiler Pro League (1),73,79,73,74,€3.1M,28,27
+15005,SV Zulte-Waregem,Belgium,be,id7106335703257813040,Belgian Jupiler Pro League (1),70,71,71,69,€3M,26,14
+682,KV Oostende,Belgium,be,id7106335703257813040,Belgian Jupiler Pro League (1),69,69,69,69,€2.9M,28,11
+111560,Royal Excel Mouscron,Belgium,be,id7106335703257813040,Belgian Jupiler Pro League (1),69,70,69,69,€1.9M,28,11
+1750,KSV Cercle Brugge,Belgium,be,id7106335703257813040,Belgian Jupiler Pro League (1),69,69,70,67,€3.9M,28,10
+670,Sporting de Charleroi,Belgium,be,id7106335703257813040,Belgian Jupiler Pro League (1),71,70,71,70,€1.9M,25,8
+100081,KV Kortrijk,Belgium,be,id7106335703257813040,Belgian Jupiler Pro League (1),69,68,69,68,€2M,27,8
+110913,Waasland-Beveren,Belgium,be,id7106335703257813040,Belgian Jupiler Pro League (1),66,66,67,66,€1.8M,28,8
+2013,KAS Eupen,Belgium,be,id7106335703257813040,Belgian Jupiler Pro League (1),69,70,69,68,€2.6M,28,7
+110724,KV Mechelen,Belgium,be,id7106335703257813040,Belgian Jupiler Pro League (1),69,70,69,66,€2.2M,28,6
+1043,Flamengo,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),76,78,76,74,€14.1M,20,40
+1629,Grêmio,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),75,72,75,74,€10M,20,32
+598,São Paulo,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),75,75,75,75,€11.2M,20,28
+383,Palmeiras,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),75,79,76,74,€13.5M,20,20
+1035,Atlético Mineiro,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),74,76,75,74,€11.1M,20,14
+1053,Santos,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),73,74,73,73,€10M,20,12
+1048,Internacional,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),74,73,74,74,€8.8M,20,11
+567,Fluminense,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),73,71,74,72,€9.9M,20,10
+569,Vasco da Gama,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),71,72,71,73,€7.2M,20,9
+517,Botafogo,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),72,73,72,71,€4.3M,20,7
+568,Cruzeiro,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),73,76,71,75,€9.1M,20,7
+1039,Club Athletico Paranaense,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),71,70,71,72,€3.8M,20,7
+113677,CSA - AL,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),71,71,72,71,€2.4M,20,6
+111042,Goiás,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),71,72,72,71,€2.9M,20,4
+1598,Bahia,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),71,70,72,71,€3.9M,20,3
+111052,Fortaleza,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),70,68,71,70,€1.6M,20,3
+111976,Avaí FC,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),70,70,71,71,€1.5M,20,3
+112476,Chapecoense,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),71,69,71,71,€3.3M,20,3
+111059,Ceará Sporting Club,Brazil,br,id654694069911390485,Campeonato Brasileiro Série A (1),68,64,70,69,€1.8M,20,2
+110975,Universidad Católica,Chile,cl,id4677271230448860446,Chilian Campeonato Nacional (1),72,73,70,72,€8.5M,24,13
+110980,Colo-Colo,Chile,cl,id4677271230448860446,Chilian Campeonato Nacional (1),72,72,68,73,€7.2M,28,13
+15029,Universidad de Chile,Chile,cl,id4677271230448860446,Chilian Campeonato Nacional (1),68,70,68,68,€10.5M,24,12
+112584,CD Everton de Viña del Mar,Chile,cl,id4677271230448860446,Chilian Campeonato Nacional (1),68,70,67,65,€2M,22,7
+111327,CD Huachipato,Chile,cl,id4677271230448860446,Chilian Campeonato Nacional (1),66,65,66,64,€3.7M,26,6
+110977,Unión Española,Chile,cl,id4677271230448860446,Chilian Campeonato Nacional (1),66,65,65,66,€3.1M,26,5
+112116,CD O'Higgins,Chile,cl,id4677271230448860446,Chilian Campeonato Nacional (1),67,69,67,64,€3.9M,28,5
+111328,CD Palestino,Chile,cl,id4677271230448860446,Chilian Campeonato Nacional (1),67,68,69,64,€2.4M,26,4
+112535,Unión La Calera,Chile,cl,id4677271230448860446,Chilian Campeonato Nacional (1),68,69,66,68,€1.6M,25,4
+101097,Audax Italiano,Chile,cl,id4677271230448860446,Chilian Campeonato Nacional (1),66,63,65,66,€4.4M,25,2
+112531,Deportes Iquique,Chile,cl,id4677271230448860446,Chilian Campeonato Nacional (1),66,68,66,66,€1.6M,27,2
+112705,Coquimbo Unido,Chile,cl,id4677271230448860446,Chilian Campeonato Nacional (1),67,66,64,64,€1.5M,28,2
+110978,CD Cobresal,Chile,cl,id4677271230448860446,Chilian Campeonato Nacional (1),65,64,67,63,€1.6M,26,1
+112533,CD Antofagasta,Chile,cl,id4677271230448860446,Chilian Campeonato Nacional (1),66,68,65,65,€2.3M,26,1
+112534,CD Universidad de Concepción,Chile,cl,id4677271230448860446,Chilian Campeonato Nacional (1),64,62,65,61,€3.3M,25,1
+112655,Curicó Unido,Chile,cl,id4677271230448860446,Chilian Campeonato Nacional (1),65,65,66,64,€1.8M,28,1
+111839,Guangzhou Evergrande Taobao FC,China PR,cn,id8906796618595556592,Chinese Super League (1),71,77,71,68,€18.1M,28,27
+111768,Beijing Sinobo Guoan FC,China PR,cn,id8906796618595556592,Chinese Super League (1),69,74,69,67,€62.1M,26,23
+112540,Shanghai SIPG FC,China PR,cn,id8906796618595556592,Chinese Super League (1),69,71,73,66,€21.7M,25,16
+110955,Shanghai Greenland Shenhua FC,China PR,cn,id8906796618595556592,Chinese Super League (1),68,70,69,64,€13.1M,28,15
+112378,Dalian YiFang FC,China PR,cn,id8906796618595556592,Chinese Super League (1),64,77,64,60,€15.4M,28,15
+112162,Jiangsu Suning FC,China PR,cn,id8906796618595556592,Chinese Super League (1),67,76,64,65,€9.3M,24,14
+111724,Shandong Luneng TaiShan FC,China PR,cn,id8906796618595556592,Chinese Super League (1),68,76,68,65,€8.3M,28,12
+112429,Guangzhou R&F FC,China PR,cn,id8906796618595556592,Chinese Super League (1),67,69,66,65,€7.6M,27,12
+112978,Hebei China Fortune FC,China PR,cn,id8906796618595556592,Chinese Super League (1),62,69,56,65,€4.2M,25,11
+112983,Tianjin Quanjian FC,China PR,cn,id8906796618595556592,Chinese Super League (1),60,65,57,60,€5.3M,18,11
+112537,Beijing Renhe FC,China PR,cn,id8906796618595556592,Chinese Super League (1),58,60,58,57,€3.1M,22,9
+111779,Henan Jianye FC,China PR,cn,id8906796618595556592,Chinese Super League (1),65,70,66,61,€4.8M,25,8
+112541,Wuhan Zall,China PR,cn,id8906796618595556592,Chinese Super League (1),64,71,62,63,€4.6M,28,7
+111773,Shenzhen FC,China PR,cn,id8906796618595556592,Chinese Super League (1),59,69,62,56,€8.2M,23,6
+111774,Tianjin TEDA FC,China PR,cn,id8906796618595556592,Chinese Super League (1),63,69,59,63,€6.6M,28,5
+112165,Chongqing Dangdai Lifan FC SWM Team,China PR,cn,id8906796618595556592,Chinese Super League (1),63,66,63,58,€3.5M,26,5
+101100,Atlético Nacional,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),70,68,70,71,€9M,27,19
+101102,Deportivo Cali,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),67,67,66,67,€7M,26,11
+101099,América de Cali,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),71,73,69,69,€2.2M,28,9
+101106,Once Caldas,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),68,69,68,68,€3.3M,23,8
+101101,Junior FC,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),70,74,69,68,€5M,28,7
+111722,Deportes Tolima,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),69,67,69,69,€3M,26,7
+112523,La Equidad,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),67,73,66,65,€2M,28,7
+112527,Patriotas Boyacá FC,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),65,63,64,64,€1.6M,28,7
+101103,Independiente Medellín,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),68,70,67,68,€5.1M,28,6
+101105,Millonarios FC,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),69,69,69,64,€7M,28,6
+101104,Independiente Santa Fe,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),68,70,68,68,€7.2M,28,5
+112526,Envigado FC,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),65,65,66,61,€1.9M,28,4
+112578,Rionegro Águilas,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),67,69,66,64,€2M,26,4
+112903,Jaguares de Córdoba,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),65,65,66,62,€1.4M,27,4
+112992,Atlético Bucaramanga,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),65,59,64,65,€1.2M,24,4
+111723,Deportivo Pasto,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),66,65,67,67,€2.5M,28,3
+112715,Unión Magdalena,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),61,62,62,60,€850K,21,3
+112528,Atlético Huila,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),62,67,60,62,€1.8M,18,2
+112579,Alianza Petrolera,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),65,67,64,65,€1.4M,27,2
+111721,Cúcuta Deportivo,Colombia,co,id5591628932134217363,Colombian Liga Postobón (1),64,65,61,64,€920K,26,1
+211,Dinamo Zagreb,Croatia,hr,id2305376283584292035,Croatian Prva HNL (1),73,73,73,72,€9.6M,28,48
+267,Sparta Praha,Czech Republic,cz,id6049781936604096699,Czech Republic Gambrinus Liga (1),73,72,73,72,€6.5M,28,22
+266,SK Slavia Praha,Czech Republic,cz,id6049781936604096699,Czech Republic Gambrinus Liga (1),74,71,74,74,€5.5M,24,21
+110468,Viktoria Plzeň,Czech Republic,cz,id6049781936604096699,Czech Republic Gambrinus Liga (1),72,72,73,72,€6.6M,25,12
+819,FC København,Denmark,dk,id8327537131238140727,Danish Superliga (1),72,73,72,70,€9.8M,26,28
+1788,FC Nordsjælland,Denmark,dk,id8327537131238140727,Danish Superliga (1),66,67,65,65,€700K,26,27
+1516,FC Midtjylland,Denmark,dk,id8327537131238140727,Danish Superliga (1),69,67,69,70,€7M,27,26
+269,Brøndby IF,Denmark,dk,id8327537131238140727,Danish Superliga (1),67,68,67,66,€5M,24,12
+271,Aarhus GF,Denmark,dk,id8327537131238140727,Danish Superliga (1),66,68,67,66,€2.1M,24,7
+820,Aalborg BK,Denmark,dk,id8327537131238140727,Danish Superliga (1),67,69,66,66,€2.4M,24,7
+1445,Esbjerg fB,Denmark,dk,id8327537131238140727,Danish Superliga (1),66,67,67,65,€1.1M,25,7
+270,Silkeborg IF,Denmark,dk,id8327537131238140727,Danish Superliga (1),62,62,61,62,€700K,26,5
+112425,Hobro IK,Denmark,dk,id8327537131238140727,Danish Superliga (1),63,65,66,63,€650K,24,5
+272,Odense Boldklub,Denmark,dk,id8327537131238140727,Danish Superliga (1),66,67,66,67,€2.2M,25,4
+1447,SønderjyskE,Denmark,dk,id8327537131238140727,Danish Superliga (1),65,66,65,64,€950K,27,4
+1446,AC Horsens,Denmark,dk,id8327537131238140727,Danish Superliga (1),63,63,63,64,€750K,21,2
+1786,Randers FC,Denmark,dk,id8327537131238140727,Danish Superliga (1),64,64,64,65,€1.2M,23,2
+15001,Lyngby BK,Denmark,dk,id8327537131238140727,Danish Superliga (1),63,63,64,62,€500K,27,2
+110981,Barcelona Sporting Club,Ecuador,ec,id6103645813272568644,Ecuadorian Serie A (1),67,69,66,68,€20K,30,8
+110986,LDU Quito,Ecuador,ec,id6103645813272568644,Ecuadorian Serie A (1),68,67,69,66,€20K,30,8
+112908,Independiente del Valle,Ecuador,ec,id6103645813272568644,Ecuadorian Serie A (1),69,67,72,68,€1.9M,25,8
+110984,Emelec,Ecuador,ec,id6103645813272568644,Ecuadorian Serie A (1),67,67,67,64,€100K,30,5
+111331,El Nacional,Ecuador,ec,id6103645813272568644,Ecuadorian Serie A (1),65,66,63,63,€200K,28,3
+110987,SD Aucas,Ecuador,ec,id6103645813272568644,Ecuadorian Serie A (1),65,65,65,65,€20K,30,2
+114580,Delfín SC,Ecuador,ec,id6103645813272568644,Ecuadorian Serie A (1),66,68,66,63,€1.3M,27,2
+114581,Universidad Católica del Ecuador,Ecuador,ec,id6103645813272568644,Ecuadorian Serie A (1),65,64,65,65,€1.5M,29,2
+8,Leeds United,England,gb-eng,id5366625930646720066,English League Championship (2),73,73,74,73,€17M,30,321
+15,Queens Park Rangers,England,gb-eng,id5366625930646720066,English League Championship (2),69,71,69,69,€3.5M,30,159
+144,Fulham,England,gb-eng,id5366625930646720066,English League Championship (2),73,75,73,71,€18.5M,30,129
+109,West Bromwich Albion,England,gb-eng,id5366625930646720066,English League Championship (2),73,72,74,71,€18M,30,120
+14,Nottingham Forest,England,gb-eng,id5366625930646720066,English League Championship (2),72,73,72,72,€13M,30,118
+1925,Brentford,England,gb-eng,id5366625930646720066,English League Championship (2),72,73,71,72,€8M,30,115
+91,Derby County,England,gb-eng,id5366625930646720066,English League Championship (2),71,71,71,71,€9M,30,77
+88,Birmingham City,England,gb-eng,id5366625930646720066,English League Championship (2),70,71,71,71,€4M,30,68
+3,Blackburn Rovers,England,gb-eng,id5366625930646720066,English League Championship (2),70,73,70,70,€5.5M,30,60
+1960,Swansea City,England,gb-eng,id5366625930646720066,English League Championship (2),70,67,71,69,€13.5M,30,59
+1806,Stoke City,England,gb-eng,id5366625930646720066,English League Championship (2),71,69,71,71,€18.5M,30,57
+1939,Huddersfield Town,England,gb-eng,id5366625930646720066,English League Championship (2),70,70,70,70,€11M,30,54
+1961,Cardiff City,England,gb-eng,id5366625930646720066,English League Championship (2),72,71,71,71,€12M,30,53
+1801,Preston North End,England,gb-eng,id5366625930646720066,English League Championship (2),71,70,71,71,€3.5M,30,49
+1793,Reading,England,gb-eng,id5366625930646720066,English League Championship (2),70,70,71,70,€8.5M,30,48
+1952,Hull City,England,gb-eng,id5366625930646720066,English League Championship (2),68,68,68,69,€7M,30,47
+1917,Wigan Athletic,England,gb-eng,id5366625930646720066,English League Championship (2),69,69,68,69,€4.5M,30,46
+12,Middlesbrough,England,gb-eng,id5366625930646720066,English League Championship (2),70,70,71,70,€15M,30,45
+1807,Sheffield Wednesday,England,gb-eng,id5366625930646720066,English League Championship (2),71,71,71,69,€6M,30,43
+97,Millwall,England,gb-eng,id5366625930646720066,English League Championship (2),70,69,70,70,€3M,30,37
+1919,Bristol City,England,gb-eng,id5366625930646720066,English League Championship (2),71,72,71,71,€10M,30,36
+89,Charlton Athletic,England,gb-eng,id5366625930646720066,English League Championship (2),69,68,69,67,€3M,30,33
+1923,Luton Town,England,gb-eng,id5366625930646720066,English League Championship (2),68,69,68,67,€2M,30,26
+1932,Barnsley,England,gb-eng,id5366625930646720066,English League Championship (2),67,67,68,66,€3M,30,24
+106,Sunderland,England,gb-eng,id296152247530893742,English League One (3),67,67,67,67,€5.4M,28,88
+1790,Portsmouth,England,gb-eng,id296152247530893742,English League One (3),66,67,66,65,€2M,28,59
+94,Ipswich Town,England,gb-eng,id296152247530893742,English League One (3),66,67,66,65,€2.8M,28,44
+4,Bolton Wanderers,England,gb-eng,id296152247530893742,English League One (3),65,67,64,64,€500K,28,39
+1938,Peterborough United,England,gb-eng,id296152247530893742,English League One (3),66,68,66,65,€2M,26,37
+1951,Oxford United,England,gb-eng,id296152247530893742,English League One (3),66,65,67,66,€1M,28,33
+1800,Coventry City,England,gb-eng,id296152247530893742,English League One (3),65,66,66,65,€1.3M,28,30
+1933,Wycombe Wanderers,England,gb-eng,id296152247530893742,English League One (3),65,65,65,65,€750K,25,30
+1797,Rotherham United,England,gb-eng,id296152247530893742,English League One (3),66,66,65,66,€1.8M,24,27
+1798,Milton Keynes Dons,England,gb-eng,id296152247530893742,English League One (3),64,65,64,64,€1.5M,28,26
+1926,Blackpool,England,gb-eng,id296152247530893742,English League One (3),65,66,65,64,€750K,28,22
+142,Doncaster Rovers,England,gb-eng,id296152247530893742,English League One (3),65,65,67,64,€1.3M,28,21
+1955,Rochdale,England,gb-eng,id296152247530893742,English League One (3),64,67,65,64,€500K,28,19
+127,Shrewsbury,England,gb-eng,id296152247530893742,English League One (3),65,65,65,65,€750K,28,18
+149,Lincoln City,England,gb-eng,id296152247530893742,English League One (3),65,64,66,63,€1.3M,28,15
+112259,AFC Wimbledon,England,gb-eng,id296152247530893742,English League One (3),63,64,62,62,€500K,28,15
+1954,Southend United,England,gb-eng,id296152247530893742,English League One (3),63,63,60,61,€750K,28,14
+1962,Bristol Rovers,England,gb-eng,id296152247530893742,English League One (3),65,62,65,63,€750K,28,14
+112260,Fleetwood Town,England,gb-eng,id296152247530893742,English League One (3),66,67,66,64,€750K,28,14
+1945,Bury,England,gb-eng,id296152247530893742,English League One (3),59,59,59,58,€500K,20,13
+15015,Burton Albion,England,gb-eng,id296152247530893742,English League One (3),64,65,65,63,€750K,25,13
+110313,Accrington Stanley,England,gb-eng,id296152247530893742,English League One (3),63,64,63,63,€500K,28,12
+1802,Gillingham,England,gb-eng,id296152247530893742,English League One (3),63,63,63,63,€1M,22,11
+15048,Tranmere Rovers,England,gb-eng,id296152247530893742,English League One (3),64,66,64,63,€750K,28,10
+113926,Salford City,England,gb-eng,id2381724593084618012,English League Two (4),64,65,65,63,€1.5M,28,53
+561,Forest Green Rovers,England,gb-eng,id2381724593084618012,English League Two (4),64,61,65,63,€1M,28,37
+1935,Colchester United,England,gb-eng,id2381724593084618012,English League Two (4),64,64,64,64,€500K,28,31
+1958,Leyton Orient,England,gb-eng,id2381724593084618012,English League Two (4),62,61,60,61,€750K,28,31
+1930,Northampton Town,England,gb-eng,id2381724593084618012,English League Two (4),63,62,63,63,€1M,28,30
+1929,Plymouth Argyle,England,gb-eng,id2381724593084618012,English League Two (4),63,62,63,65,€1.3M,25,29
+1804,Bradford City,England,gb-eng,id2381724593084618012,English League Two (4),63,63,63,63,€1.3M,28,28
+143,Exeter City,England,gb-eng,id2381724593084618012,English League Two (4),63,64,63,64,€750K,26,27
+92,Grimsby Town,England,gb-eng,id2381724593084618012,English League Two (4),62,63,62,61,€500K,28,26
+1920,Oldham Athletic,England,gb-eng,id2381724593084618012,English League Two (4),62,61,63,62,€750K,28,26
+121,Crewe Alexandra,England,gb-eng,id2381724593084618012,English League Two (4),62,63,63,62,€500K,28,25
+1934,Swindon Town,England,gb-eng,id2381724593084618012,English League Two (4),64,66,64,63,€750K,28,25
+1959,Macclesfield Town,England,gb-eng,id2381724593084618012,English League Two (4),61,61,60,61,€500K,23,25
+1803,Walsall,England,gb-eng,id2381724593084618012,English League Two (4),63,62,63,63,€750K,26,22
+110890,Crawley Town,England,gb-eng,id2381724593084618012,English League Two (4),62,62,62,61,€500K,28,22
+112254,Newport County,England,gb-eng,id2381724593084618012,English League Two (4),62,61,61,62,€750K,23,22
+1944,Cambridge United,England,gb-eng,id2381724593084618012,English League Two (4),61,61,61,59,€500K,27,21
+1940,Mansfield Town,England,gb-eng,id2381724593084618012,English League Two (4),63,64,62,63,€1.5M,27,20
+1949,Scunthorpe United,England,gb-eng,id2381724593084618012,English League Two (4),63,64,62,62,€1M,28,20
+1936,Cheltenham Town,England,gb-eng,id2381724593084618012,English League Two (4),62,63,62,63,€500K,27,19
+357,Morecambe,England,gb-eng,id2381724593084618012,English League Two (4),61,61,62,60,€500K,28,18
+1928,Port Vale,England,gb-eng,id2381724593084618012,English League Two (4),63,62,63,63,€750K,27,18
+361,Stevenage,England,gb-eng,id2381724593084618012,English League Two (4),62,62,59,62,€750K,28,14
+1480,Carlisle United,England,gb-eng,id2381724593084618012,English League Two (4),62,63,61,61,€500K,28,14
+5,Chelsea,England,gb-eng,id6899066988075347270,English Premier League (1),81,80,84,81,€91M,33,956
+10,Manchester City,England,gb-eng,id6899066988075347270,English Premier League (1),85,87,86,83,€176M,33,681
+11,Manchester United,England,gb-eng,id6899066988075347270,English Premier League (1),81,83,81,81,€177M,33,639
+1,Arsenal,England,gb-eng,id6899066988075347270,English Premier League (1),80,84,82,78,€74M,33,603
+9,Liverpool,England,gb-eng,id6899066988075347270,English Premier League (1),85,87,83,85,€103M,33,495
+18,Tottenham Hotspur,England,gb-eng,id6899066988075347270,English Premier League (1),82,85,82,82,€76M,33,389
+110,Wolverhampton Wanderers,England,gb-eng,id6899066988075347270,English Premier League (1),78,79,79,78,€42M,33,377
+95,Leicester City,England,gb-eng,id6899066988075347270,English Premier League (1),79,80,79,79,€45M,33,314
+7,Everton,England,gb-eng,id6899066988075347270,English Premier League (1),78,80,78,79,€51M,33,246
+19,West Ham United,England,gb-eng,id6899066988075347270,English Premier League (1),78,82,78,73,€51.5M,33,172
+1799,Crystal Palace,England,gb-eng,id6899066988075347270,English Premier League (1),77,73,77,76,€34.5M,33,166
+13,Newcastle United,England,gb-eng,id6899066988075347270,English Premier League (1),77,75,78,77,€25.5M,33,165
+2,Aston Villa,England,gb-eng,id6899066988075347270,English Premier League (1),76,77,75,75,€37.5M,33,158
+17,Southampton,England,gb-eng,id6899066988075347270,English Premier League (1),76,76,76,76,€35M,33,135
+1808,Brighton & Hove Albion,England,gb-eng,id6899066988075347270,English Premier League (1),76,75,76,76,€32M,33,128
+1794,Sheffield United,England,gb-eng,id6899066988075347270,English Premier League (1),75,73,77,75,€18M,33,127
+1943,Bournemouth,England,gb-eng,id6899066988075347270,English Premier League (1),76,78,76,76,€36.5M,33,112
+1792,Norwich City,England,gb-eng,id6899066988075347270,English Premier League (1),74,75,74,72,€25M,33,104
+1795,Watford,England,gb-eng,id6899066988075347270,English Premier League (1),77,76,78,75,€38.5M,33,101
+1796,Burnley,England,gb-eng,id6899066988075347270,English Premier League (1),76,77,76,76,€25M,32,78
+100325,HJK Helsinki,Finland,fi,id4345780316340979870,Finnish Veikkausliiga (1),64,62,65,63,€600K,23,10
+73,Paris Saint-Germain,France,fr,id3864963893705293345,French Ligue 1 (1),85,88,84,83,€184.4M,30,448
+66,Olympique Lyonnais,France,fr,id3864963893705293345,French Ligue 1 (1),79,79,78,77,€40.3M,33,340
+72,OGC Nice,France,fr,id3864963893705293345,French Ligue 1 (1),75,74,76,74,€10.4M,27,325
+69,AS Monaco,France,fr,id3864963893705293345,French Ligue 1 (1),78,80,78,76,€40.1M,33,247
+65,LOSC Lille,France,fr,id3864963893705293345,French Ligue 1 (1),77,77,77,76,€14.4M,32,229
+74,Stade Rennais FC,France,fr,id3864963893705293345,French Ligue 1 (1),76,76,77,76,€11.9M,31,193
+219,Olympique de Marseille,France,fr,id3864963893705293345,French Ligue 1 (1),78,80,78,77,€17.9M,27,173
+1819,AS Saint-Étienne,France,fr,id3864963893705293345,French Ligue 1 (1),75,73,76,74,€10.9M,33,82
+1816,Amiens SC,France,fr,id3864963893705293345,French Ligue 1 (1),73,73,73,71,€5.5M,29,68
+59,FC Girondins de Bordeaux,France,fr,id3864963893705293345,French Ligue 1 (1),75,75,75,76,€12.1M,27,59
+1809,Toulouse Football Club,France,fr,id3864963893705293345,French Ligue 1 (1),73,72,74,71,€7.8M,32,49
+71,FC Nantes,France,fr,id3864963893705293345,French Ligue 1 (1),74,75,73,74,€7.2M,32,48
+76,RC Strasbourg Alsace,France,fr,id3864963893705293345,French Ligue 1 (1),74,75,74,74,€7.9M,27,47
+379,Stade de Reims,France,fr,id3864963893705293345,French Ligue 1 (1),73,71,73,73,€6.7M,30,46
+70,Montpellier HSC,France,fr,id3864963893705293345,French Ligue 1 (1),75,78,74,75,€9.3M,26,33
+224,Nîmes Olympique,France,fr,id3864963893705293345,French Ligue 1 (1),71,72,70,72,€4.8M,28,31
+68,FC Metz,France,fr,id3864963893705293345,French Ligue 1 (1),72,73,72,72,€4.9M,28,28
+1530,Angers SCO,France,fr,id3864963893705293345,French Ligue 1 (1),74,74,75,74,€5.6M,30,28
+378,Stade Brestois 29,France,fr,id3864963893705293345,French Ligue 1 (1),72,72,72,72,€4.6M,26,24
+110569,Dijon FCO,France,fr,id3864963893705293345,French Ligue 1 (1),72,72,72,70,€4.3M,26,24
+212,La Berrichonne de Châteauroux,France,fr,id7910623739355779897,French Ligue 2 (2),66,66,66,66,€2.3M,25,110
+64,Racing Club de Lens,France,fr,id7910623739355779897,French Ligue 2 (2),69,72,69,69,€7.9M,28,38
+217,FC Lorient,France,fr,id7910623739355779897,French Ligue 2 (2),70,71,69,69,€4.4M,28,37
+111817,Paris FC,France,fr,id7910623739355779897,French Ligue 2 (2),68,68,69,65,€4.2M,30,32
+1738,Le Havre AC,France,fr,id7910623739355779897,French Ligue 2 (2),68,71,67,67,€4.2M,25,25
+57,AJ Auxerre,France,fr,id7910623739355779897,French Ligue 2 (2),68,70,68,68,€4.1M,28,24
+62,En Avant de Guingamp,France,fr,id7910623739355779897,French Ligue 2 (2),69,71,69,69,€5.2M,27,21
+294,ESTAC Troyes,France,fr,id7910623739355779897,French Ligue 2 (2),69,69,69,69,€4.1M,30,20
+226,FC Sochaux-Montbéliard,France,fr,id7910623739355779897,French Ligue 2 (2),67,67,67,67,€2.8M,30,18
+1823,AS Nancy Lorraine,France,fr,id7910623739355779897,French Ligue 2 (2),66,65,65,65,€2.8M,29,14
+112276,US Orléans Loiret Football,France,fr,id7910623739355779897,French Ligue 2 (2),66,66,65,63,€2.9M,29,14
+614,AC Ajaccio,France,fr,id7910623739355779897,French Ligue 2 (2),66,65,66,66,€2.1M,27,13
+1739,Le Mans FC,France,fr,id7910623739355779897,French Ligue 2 (2),66,66,66,66,€1.7M,27,13
+210,Stade Malherbe Caen,France,fr,id7910623739355779897,French Ligue 2 (2),68,67,67,67,€5.3M,28,12
+111659,Rodez Aveyron Football,France,fr,id7910623739355779897,French Ligue 2 (2),65,66,66,65,€1.5M,29,12
+1805,Grenoble Foot 38,France,fr,id7910623739355779897,French Ligue 2 (2),67,68,67,67,€2.9M,25,11
+110456,Valenciennes FC,France,fr,id7910623739355779897,French Ligue 2 (2),67,70,65,67,€2.6M,28,11
+112627,FC Chambly Oise,France,fr,id7910623739355779897,French Ligue 2 (2),65,64,66,64,€1.6M,30,10
+1815,Clermont Foot 63,France,fr,id7910623739355779897,French Ligue 2 (2),67,67,66,67,€3.4M,26,9
+1813,Chamois Niortais Football Club,France,fr,id7910623739355779897,French Ligue 2 (2),66,70,65,64,€3M,28,7
+21,FC Bayern München,Germany,de,id9100939095866679697,German 1. Bundesliga (1),84,87,85,81,€100M,23,734
+34,FC Schalke 04,Germany,de,id9100939095866679697,German 1. Bundesliga (1),77,76,77,76,€42M,26,358
+22,Borussia Dortmund,Germany,de,id9100939095866679697,German 1. Bundesliga (1),82,83,83,82,€60M,31,344
+112172,RB Leipzig,Germany,de,id9100939095866679697,German 1. Bundesliga (1),80,81,81,79,€50M,33,252
+32,Bayer 04 Leverkusen,Germany,de,id9100939095866679697,German 1. Bundesliga (1),80,80,80,79,€39M,24,196
+23,Borussia Mönchengladbach,Germany,de,id9100939095866679697,German 1. Bundesliga (1),79,78,79,78,€25M,30,134
+175,VfL Wolfsburg,Germany,de,id9100939095866679697,German 1. Bundesliga (1),77,77,77,78,€40M,30,109
+1824,Eintracht Frankfurt,Germany,de,id9100939095866679697,German 1. Bundesliga (1),77,78,77,77,€25M,29,106
+166,Hertha BSC,Germany,de,id9100939095866679697,German 1. Bundesliga (1),76,77,75,75,€12M,30,89
+38,SV Werder Bremen,Germany,de,id9100939095866679697,German 1. Bundesliga (1),77,77,76,77,€12M,33,81
+10029,TSG 1899 Hoffenheim,Germany,de,id9100939095866679697,German 1. Bundesliga (1),77,79,77,75,€28M,27,70
+25,SC Freiburg,Germany,de,id9100939095866679697,German 1. Bundesliga (1),74,76,73,75,€10.5M,28,69
+169,1. FSV Mainz 05,Germany,de,id9100939095866679697,German 1. Bundesliga (1),75,75,73,75,€9.2M,33,52
+31,1. FC Köln,Germany,de,id9100939095866679697,German 1. Bundesliga (1),75,76,75,73,€12.5M,27,49
+1831,1. FC Union Berlin,Germany,de,id9100939095866679697,German 1. Bundesliga (1),72,73,71,73,€6.5M,32,48
+100409,FC Augsburg,Germany,de,id9100939095866679697,German 1. Bundesliga (1),75,78,74,74,€9.5M,33,47
+10030,SC Paderborn 07,Germany,de,id9100939095866679697,German 1. Bundesliga (1),69,70,70,69,€5M,33,31
+110636,Fortuna Düsseldorf,Germany,de,id9100939095866679697,German 1. Bundesliga (1),73,73,74,72,€7.5M,33,21
+28,Hamburger SV,Germany,de,id7277498731385920035,German 2. Bundesliga (2),73,72,73,72,€18M,30,79
+36,VfB Stuttgart,Germany,de,id7277498731385920035,German 2. Bundesliga (2),72,73,70,69,€20M,30,68
+171,1. FC Nürnberg,Germany,de,id7277498731385920035,German 2. Bundesliga (2),71,71,71,70,€5.4M,30,48
+110329,FC St. Pauli,Germany,de,id7277498731385920035,German 2. Bundesliga (2),69,70,69,67,€2.9M,30,38
+485,Hannover 96,Germany,de,id7277498731385920035,German 2. Bundesliga (2),72,72,71,71,€10M,30,37
+160,VfL Bochum 1848,Germany,de,id7277498731385920035,German 2. Bundesliga (2),69,71,68,69,€3.3M,29,26
+159,DSC Arminia Bielefeld,Germany,de,id7277498731385920035,German 2. Bundesliga (2),70,71,71,69,€2.3M,29,22
+576,Holstein Kiel,Germany,de,id7277498731385920035,German 2. Bundesliga (2),68,69,68,67,€1.7M,28,19
+503,SG Dynamo Dresden,Germany,de,id7277498731385920035,German 2. Bundesliga (2),69,67,69,69,€2M,29,16
+111235,1. FC Heidenheim 1846,Germany,de,id7277498731385920035,German 2. Bundesliga (2),70,73,71,70,€2M,26,13
+165,SpVgg Greuther Fürth,Germany,de,id7277498731385920035,German 2. Bundesliga (2),68,70,67,67,€1.9M,27,12
+506,FC Erzgebirge Aue,Germany,de,id7277498731385920035,German 2. Bundesliga (2),68,69,68,68,€1.6M,27,12
+1832,Karlsruher SC,Germany,de,id7277498731385920035,German 2. Bundesliga (2),68,69,68,67,€800K,29,12
+492,SV Wehen Wiesbaden,Germany,de,id7277498731385920035,German 2. Bundesliga (2),68,72,67,67,€1.7M,30,11
+487,VfL Osnabrück,Germany,de,id7277498731385920035,German 2. Bundesliga (2),68,67,68,68,€520K,29,10
+543,SSV Jahn Regensburg,Germany,de,id7277498731385920035,German 2. Bundesliga (2),67,67,67,68,€1M,27,9
+110502,SV Darmstadt 98,Germany,de,id7277498731385920035,German 2. Bundesliga (2),69,70,69,69,€3.3M,30,9
+110178,SV Sandhausen,Germany,de,id7277498731385920035,German 2. Bundesliga (2),69,69,68,70,€1.5M,28,7
+110679,Bayern München II,Germany,de,id82428730669036602,German 3. Bundesliga (3),64,66,65,63,€3M,28,177
+29,1. FC Kaiserslautern,Germany,de,id82428730669036602,German 3. Bundesliga (3),65,66,65,65,€750K,28,37
+33,TSV 1860 München,Germany,de,id82428730669036602,German 3. Bundesliga (3),65,67,64,65,€1M,28,33
+111239,FC Ingolstadt 04,Germany,de,id82428730669036602,German 3. Bundesliga (3),66,67,66,66,€4M,26,29
+1825,MSV Duisburg,Germany,de,id82428730669036602,German 3. Bundesliga (3),64,66,65,62,€800K,23,15
+110500,Eintracht Braunschweig,Germany,de,id82428730669036602,German 3. Bundesliga (3),66,67,66,65,€900K,28,15
+27,FC Hansa Rostock,Germany,de,id82428730669036602,German 3. Bundesliga (3),65,64,65,64,€650K,26,14
+167,KFC Uerdingen 05,Germany,de,id82428730669036602,German 3. Bundesliga (3),65,66,64,66,€1.3M,28,12
+531,SC Preußen Münster,Germany,de,id82428730669036602,German 3. Bundesliga (3),63,63,64,64,€550K,26,12
+110532,SV Waldhof Mannheim,Germany,de,id82428730669036602,German 3. Bundesliga (3),64,65,65,64,€500K,28,10
+111379,SG Sonnenhof Großaspach,Germany,de,id82428730669036602,German 3. Bundesliga (3),63,64,62,63,€600K,28,9
+110588,1. FC Magdeburg,Germany,de,id82428730669036602,German 3. Bundesliga (3),65,67,65,64,€800K,26,8
+110592,FSV Zwickau,Germany,de,id82428730669036602,German 3. Bundesliga (3),65,64,65,63,€500K,26,8
+172,SpVgg Unterhaching,Germany,de,id82428730669036602,German 3. Bundesliga (3),66,66,65,65,€580K,25,7
+110591,FC Carl Zeiss Jena,Germany,de,id82428730669036602,German 3. Bundesliga (3),63,64,62,64,€500K,28,7
+110597,SV Meppen,Germany,de,id82428730669036602,German 3. Bundesliga (3),65,65,65,66,€520K,26,6
+110645,Viktoria Köln,Germany,de,id82428730669036602,German 3. Bundesliga (3),64,65,64,62,€500K,28,6
+507,Chemnitzer FC,Germany,de,id82428730669036602,German 3. Bundesliga (3),64,68,63,64,€500K,28,5
+110482,Hallescher FC,Germany,de,id82428730669036602,German 3. Bundesliga (3),65,65,65,63,€640K,27,5
+110197,FC Würzburger Kickers,Germany,de,id82428730669036602,German 3. Bundesliga (3),64,64,65,63,€725K,27,4
+280,Olympiacos CFP,Greece,gr,id1699100251872795441,Greek Super League (1),75,77,75,73,€14.9M,28,34
+393,PAOK,Greece,gr,id1699100251872795441,Greek Super League (1),74,73,73,75,€14.5M,27,25
+1884,Panathinaikos FC,Greece,gr,id1699100251872795441,Greek Super League (1),71,73,71,70,€6.9M,28,20
+278,AEK Athens,Greece,gr,id1699100251872795441,Greek Super League (1),73,75,72,72,€7M,28,11
+245,Ajax,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),80,78,81,78,€35.4M,30,303
+246,Feyenoord,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),74,75,75,73,€13.8M,27,184
+650,ADO Den Haag,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),68,68,68,65,€5.4M,30,136
+247,PSV,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),75,75,75,76,€21.5M,30,97
+1906,AZ Alkmaar,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),74,74,74,74,€8.7M,28,80
+634,Fortuna Sittard,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),66,64,67,64,€5.7M,28,33
+1908,FC Twente,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),68,69,68,67,€9.2M,27,33
+1913,SC Heerenveen,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),69,71,69,67,€6.6M,24,31
+1915,FC Groningen,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),67,62,67,68,€6.2M,29,30
+1903,FC Utrecht,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),72,70,73,70,€15.2M,30,29
+1909,Vitesse,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),70,71,70,69,€21.5M,28,25
+1907,Willem II,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),69,68,70,68,€4.7M,25,22
+100651,VVV-Venlo,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),66,65,66,66,€2.9M,29,21
+1905,RKC Waalwijk,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),65,66,66,64,€2.7M,28,19
+100634,Heracles Almelo,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),68,72,68,66,€4.2M,30,19
+1914,PEC Zwolle,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),67,68,68,67,€6M,26,15
+100628,FC Emmen,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),68,69,68,67,€2.8M,30,14
+100646,Sparta Rotterdam,Netherlands,nl,id3653358368762401630,Holland Eredivisie (1),66,67,67,66,€5.7M,24,14
+1387,United States,United States,us,id6966331227472089103,International,74,75,74,74,€0,23,120
+1335,France,France,fr,id6966331227472089103,International,85,84,86,84,€0,23,87
+1337,Germany,Germany,de,id6966331227472089103,International,85,85,85,80,€0,23,85
+1318,England,England,gb-eng,id6966331227472089103,International,82,87,81,81,€0,23,83
+105035,Netherlands,Netherlands,nl,id6966331227472089103,International,83,82,83,83,€0,23,60
+1354,Portugal,Portugal,pt,id6966331227472089103,International,83,87,83,82,€0,23,57
+1343,Italy,Italy,it,id6966331227472089103,International,83,83,83,82,€0,23,56
+1369,Argentina,Argentina,ar,id6966331227472089103,International,82,85,81,79,€0,23,56
+1386,Mexico,Mexico,mx,id6966331227472089103,International,78,80,78,76,€0,23,56
+1362,Spain,Spain,es,id6966331227472089103,International,85,83,86,85,€0,23,49
+1325,Belgium,Belgium,be,id6966331227472089103,International,84,88,83,82,€0,23,42
+1370,Brazil,Brazil,br,id6966331227472089103,International,81,84,80,80,€0,23,36
+1359,Scotland,Scotland,gb-sct,id6966331227472089103,International,76,68,76,74,€0,23,32
+1322,Austria,Austria,at,id6966331227472089103,International,78,83,78,77,€0,23,31
+111455,Canada,Canada,ca,id6966331227472089103,International,71,73,73,66,€0,23,31
+1352,Norway,Norway,no,id6966331227472089103,International,76,78,76,74,€0,23,29
+111109,Colombia,Colombia,co,id6966331227472089103,International,79,82,79,78,€0,23,29
+1331,Denmark,Denmark,dk,id6966331227472089103,International,78,78,81,77,€0,23,24
+1353,Poland,Poland,pl,id6966331227472089103,International,77,84,74,76,€0,23,23
+1355,Republic of Ireland,Republic of Ireland,ie,id6966331227472089103,International,75,73,73,77,€0,23,23
+1367,Wales,Wales,gb-wls,id6966331227472089103,International,74,70,76,72,€0,23,22
+1377,Uruguay,Uruguay,uy,id6966331227472089103,International,79,80,79,79,€0,23,20
+111473,New Zealand,New Zealand,nz,id6966331227472089103,International,68,72,67,68,€0,23,20
+1357,Russia,Russia,ru,id6966331227472089103,International,77,79,77,76,€0,23,19
+1365,Turkey,Turkey,tr,id6966331227472089103,International,77,78,76,75,€0,23,17
+111112,Côte d'Ivoire,Ivory Coast,ci,id6966331227472089103,International,75,77,74,75,€0,23,17
+111459,Chile,Chile,cl,id6966331227472089103,International,77,78,77,75,€0,23,17
+1363,Sweden,Sweden,se,id6966331227472089103,International,76,77,76,74,€0,23,15
+1395,Cameroon,Cameroon,cm,id6966331227472089103,International,75,75,75,74,€0,23,15
+1334,Finland,Finland,fi,id6966331227472089103,International,70,77,69,68,€0,23,14
+1415,Australia,Australia,au,id6966331227472089103,International,72,72,72,70,€0,23,14
+111487,Venezuela,Venezuela,ve,id6966331227472089103,International,73,77,73,71,€0,23,12
+1364,Switzerland,Switzerland,ch,id6966331227472089103,International,78,76,79,78,€0,23,11
+111099,South Africa,South Africa,za,id6966331227472089103,International,71,72,71,70,€0,23,11
+1886,Hungary,Hungary,hu,id6966331227472089103,International,73,74,72,72,€0,23,10
+111108,Peru,Peru,pe,id6966331227472089103,International,73,77,73,72,€0,23,10
+111130,Egypt,Egypt,eg,id6966331227472089103,International,74,76,74,71,€0,23,10
+1341,Iceland,Iceland,is,id6966331227472089103,International,72,72,74,70,€0,23,9
+1327,Bulgaria,Bulgaria,bg,id6966331227472089103,International,65,65,65,64,€0,23,8
+1361,Slovenia,Slovenia,si,id6966331227472089103,International,74,74,73,71,€0,23,8
+110081,Northern Ireland,Northern Ireland,gb-nir,id6966331227472089103,International,71,68,70,74,€0,23,8
+111466,India,India,in,id6966331227472089103,International,60,63,60,60,€0,23,8
+1356,Romania,Romania,ro,id6966331227472089103,International,73,72,73,69,€0,23,7
+1338,Greece,Greece,gr,id6966331227472089103,International,74,72,73,72,€0,23,6
+1375,Paraguay,Paraguay,py,id6966331227472089103,International,74,73,75,73,€0,23,6
+1413,China PR,China PR,cn,id6966331227472089103,International,69,74,69,66,€0,23,6
+1330,Czech Republic,Czech Republic,cz,id6966331227472089103,International,76,76,76,75,€0,23,5
+111465,Ecuador,Ecuador,ec,id6966331227472089103,International,73,74,72,75,€0,23,4
+111451,Bolivia,Bolivia,bo,id6966331227472089103,International,68,69,67,67,€0,23,2
+47,Milan,Italy,it,id3797017577082312366,Italian Serie A (1),79,85,78,79,€39M,25,613
+44,Inter,Italy,it,id3797017577082312366,Italian Serie A (1),82,83,80,86,€53M,26,411
+45,Juventus,Italy,it,id3797017577082312366,Italian Serie A (1),85,89,84,85,€90M,23,394
+52,Roma,Italy,it,id3797017577082312366,Italian Serie A (1),79,84,78,78,€41M,31,255
+48,Napoli,Italy,it,id3797017577082312366,Italian Serie A (1),82,84,81,81,€49.3M,26,168
+39,Atalanta,Italy,it,id3797017577082312366,Italian Serie A (1),79,82,79,77,€12M,25,163
+46,Lazio,Italy,it,id3797017577082312366,Italian Serie A (1),81,82,81,80,€21M,26,146
+110374,Fiorentina,Italy,it,id3797017577082312366,Italian Serie A (1),76,76,74,75,€23M,26,128
+190,Brescia,Italy,it,id3797017577082312366,Italian Serie A (1),72,74,72,70,€5.2M,26,101
+111974,Sassuolo,Italy,it,id3797017577082312366,Italian Serie A (1),74,77,75,71,€16M,30,75
+54,Torino,Italy,it,id3797017577082312366,Italian Serie A (1),77,79,76,77,€15M,23,70
+50,Parma,Italy,it,id3797017577082312366,Italian Serie A (1),74,75,74,73,€8M,26,60
+55,Udinese,Italy,it,id3797017577082312366,Italian Serie A (1),75,75,75,74,€8M,24,56
+189,Bologna,Italy,it,id3797017577082312366,Italian Serie A (1),74,74,76,73,€15M,26,54
+1837,Sampdoria,Italy,it,id3797017577082312366,Italian Serie A (1),74,78,73,73,€14M,28,49
+206,Hellas Verona,Italy,it,id3797017577082312366,Italian Serie A (1),74,74,75,74,€8M,27,45
+1842,Cagliari,Italy,it,id3797017577082312366,Italian Serie A (1),76,78,76,73,€10M,25,40
+110556,Genoa,Italy,it,id3797017577082312366,Italian Serie A (1),75,75,74,75,€8.5M,31,37
+347,Lecce,Italy,it,id3797017577082312366,Italian Serie A (1),72,72,71,72,€6M,24,31
+112791,SPAL,Italy,it,id3797017577082312366,Italian Serie A (1),73,75,71,71,€5M,26,26
+1746,Empoli,Italy,it,id1007174319185644352,Italian Serie B (2),70,71,68,70,€7M,27,33
+112026,Benevento,Italy,it,id1007174319185644352,Italian Serie B (2),71,71,71,71,€5.8M,25,28
+110741,Spezia,Italy,it,id1007174319185644352,Italian Serie B (2),68,69,69,66,€5.5M,26,26
+192,Chievo Verona,Italy,it,id1007174319185644352,Italian Serie B (2),69,71,70,68,€7M,30,20
+111657,Frosinone,Italy,it,id1007174319185644352,Italian Serie B (2),70,72,69,70,€6M,26,18
+199,Perugia,Italy,it,id1007174319185644352,Italian Serie B (2),69,70,65,70,€4.5M,29,15
+205,Venezia FC,Italy,it,id1007174319185644352,Italian Serie B (2),68,67,68,66,€4M,30,15
+113958,Pordenone,Italy,it,id1007174319185644352,Italian Serie B (2),68,68,67,69,€2M,25,15
+110373,US Salernitana 1919,Italy,it,id1007174319185644352,Italian Serie B (2),68,69,68,66,€4M,26,13
+110738,Pisa,Italy,it,id1007174319185644352,Italian Serie B (2),68,68,67,67,€2.7M,27,13
+111993,Cittadella,Italy,it,id1007174319185644352,Italian Serie B (2),67,67,67,68,€3M,28,13
+110734,Crotone,Italy,it,id1007174319185644352,Italian Serie B (2),69,69,69,67,€5M,27,12
+1844,Livorno,Italy,it,id1007174319185644352,Italian Serie B (2),67,66,67,67,€4M,30,11
+111434,US Cremonese,Italy,it,id1007174319185644352,Italian Serie B (2),68,68,68,68,€3.9M,25,9
+200,Pescara,Italy,it,id1007174319185644352,Italian Serie B (2),69,67,68,65,€5.8M,30,8
+112410,Trapani,Italy,it,id1007174319185644352,Italian Serie B (2),66,68,66,65,€2.9M,30,7
+113147,Virtus Entella,Italy,it,id1007174319185644352,Italian Serie B (2),67,67,70,65,€2.5M,27,7
+1847,Ascoli,Italy,it,id1007174319185644352,Italian Serie B (2),68,68,68,68,€4M,29,5
+112124,Castellammare di Stabia,Italy,it,id1007174319185644352,Italian Serie B (2),67,67,66,66,€2.2M,27,5
+112168,Cosenza,Italy,it,id1007174319185644352,Italian Serie B (2),67,68,67,67,€3.2M,26,3
+101146,Vissel Kobe,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),69,70,70,71,€8.5M,27,19
+101147,Kashima Antlers,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),69,71,68,66,€4.8M,30,17
+101151,Yokohama F. Marinos,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),69,70,70,69,€3.3M,28,10
+112093,Gamba Osaka,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),69,70,68,70,€4.3M,30,10
+101150,FC Tokyo,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),69,68,70,69,€5M,30,9
+111730,Kawasaki Frontale,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),69,72,69,68,€5.9M,28,9
+112444,Hokkaido Consadole Sapporo,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),68,70,67,70,€3.6M,28,9
+101144,Júbilo Iwata,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),64,66,64,62,€3.6M,27,6
+101148,Cerezo Osaka,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),69,69,68,69,€4.5M,30,6
+111575,Urawa Red Diamonds,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),69,70,66,68,€6.7M,30,6
+101149,Shimizu S-Pulse,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),67,69,65,65,€2.8M,30,5
+112092,Nagoya Grampus,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),68,70,68,65,€7.1M,29,5
+113158,Matsumoto Yamaga,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),64,66,63,64,€2.7M,25,5
+113161,Shonan Bellmare,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),65,68,64,64,€2.7M,30,5
+113157,Sanfrecce Hiroshima,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),68,68,69,68,€5.4M,28,4
+113160,Sagan Tosu,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),65,64,63,63,€2.6M,30,4
+113183,Oita Trinita,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),67,67,65,68,€3.4M,30,4
+112836,Vegalta Sendai,Japan,jp,id1852804369889665063,Japanese J. League Division 1 (1),67,67,65,66,€3M,30,3
+1473,Ulsan Hyundai FC,Korea Republic,kr,id3154288350934572421,Korean K League Classic (1),70,71,69,69,€4.9M,28,14
+1477,Jeonbuk Hyundai Motors,Korea Republic,kr,id3154288350934572421,Korean K League Classic (1),70,68,70,71,€7.1M,28,8
+983,Suwon Samsung Bluewings,Korea Republic,kr,id3154288350934572421,Korean K League Classic (1),68,72,68,66,€3.7M,28,6
+982,FC Seoul,Korea Republic,kr,id3154288350934572421,Korean K League Classic (1),68,69,69,63,€5.3M,28,4
+1474,Pohang Steelers,Korea Republic,kr,id3154288350934572421,Korean K League Classic (1),67,66,69,65,€3.4M,28,4
+2056,Daegu FC,Korea Republic,kr,id3154288350934572421,Korean K League Classic (1),64,66,63,61,€3.7M,28,4
+1478,Jeju United FC,Korea Republic,kr,id3154288350934572421,Korean K League Classic (1),67,66,68,65,€1.8M,28,3
+2055,Sangju Sangmu FC,Korea Republic,kr,id3154288350934572421,Korean K League Classic (1),65,67,65,65,€2.6M,28,3
+110765,Incheon United FC,Korea Republic,kr,id3154288350934572421,Korean K League Classic (1),64,72,62,64,€2.3M,28,3
+981,Seongnam FC,Korea Republic,kr,id3154288350934572421,Korean K League Classic (1),64,65,64,61,€2.8M,28,2
+111588,Gyeongnam FC,Korea Republic,kr,id3154288350934572421,Korean K League Classic (1),65,67,63,63,€3.3M,28,2
+112115,Gangwon FC,Korea Republic,kr,id3154288350934572421,Korean K League Classic (1),65,64,67,65,€2.7M,28,2
+110967,Club Blooming,Bolivia,bo,id499090460316193200,Liga de Fútbol Profesional Boliviano (1),64,65,62,62,€50K,29,9
+110968,Club Bolívar,Bolivia,bo,id499090460316193200,Liga de Fútbol Profesional Boliviano (1),67,68,68,65,€50K,30,6
+114577,Always Ready,Bolivia,bo,id499090460316193200,Liga de Fútbol Profesional Boliviano (1),65,65,66,63,€1.1M,28,5
+110970,Oriente Petrolero,Bolivia,bo,id499090460316193200,Liga de Fútbol Profesional Boliviano (1),63,65,63,61,€50K,28,3
+110974,Jorge Wilstermann,Bolivia,bo,id499090460316193200,Liga de Fútbol Profesional Boliviano (1),66,67,64,67,€50K,29,3
+112667,Nacional Potosí,Bolivia,bo,id499090460316193200,Liga de Fútbol Profesional Boliviano (1),63,62,65,63,€1.5M,28,2
+1879,Club América,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),73,74,70,71,€21.4M,26,58
+1970,Tigres U.A.N.L.,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),75,77,72,75,€37.6M,28,56
+101114,Club Atlas,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),70,70,69,69,€6.5M,28,48
+1878,Cruz Azul,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),73,73,72,71,€13.2M,29,43
+1880,Guadalajara,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),71,71,71,70,€19.2M,24,38
+1032,Monterrey,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),74,76,74,74,€24.3M,27,37
+1881,U.N.A.M.,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),69,72,69,67,€11.6M,25,30
+111678,Club Tijuana,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),71,72,71,70,€9M,28,22
+1882,Deportivo Toluca,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),71,72,70,69,€7.4M,30,21
+110144,Santos Laguna,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),72,71,72,70,€11.5M,23,19
+110147,Pachuca,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),71,71,71,69,€13.3M,28,18
+110781,Club León,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),72,66,73,71,€10.4M,30,16
+1028,Monarcas Morelia,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),70,73,72,69,€4.9M,27,15
+112678,Atlético de San Luis,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),69,70,69,69,€1.8M,26,15
+113134,FC Juárez,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),69,70,69,69,€2.1M,30,14
+110150,Querétaro,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),70,70,70,67,€4.9M,30,11
+101121,Club Necaxa,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),69,75,68,68,€5.3M,25,10
+110145,Tiburones Rojos de Veracruz,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),63,64,63,63,€2.1M,20,9
+110152,Puebla FC,Mexico,mx,id1753104140312607473,Mexican Liga MX (1),70,70,70,65,€3.9M,30,9
+298,Rosenborg BK,Norway,no,id4171564101829091315,Norwegian Eliteserien (1),69,68,68,70,€6M,27,21
+918,FK Bodø/Glimt,Norway,no,id4171564101829091315,Norwegian Eliteserien (1),64,64,66,65,€950K,27,20
+919,SK Brann,Norway,no,id4171564101829091315,Norwegian Eliteserien (1),67,66,66,66,€3.4M,22,14
+417,Molde FK,Norway,no,id4171564101829091315,Norwegian Eliteserien (1),69,72,69,68,€4.3M,26,11
+418,Tromsø IL,Norway,no,id4171564101829091315,Norwegian Eliteserien (1),62,60,63,63,€1.1M,20,7
+922,Strømsgodset IF,Norway,no,id4171564101829091315,Norwegian Eliteserien (1),64,63,63,65,€2.4M,27,7
+300,Viking FK,Norway,no,id4171564101829091315,Norwegian Eliteserien (1),65,66,65,64,€700K,23,5
+920,Vålerenga Fotball,Norway,no,id4171564101829091315,Norwegian Eliteserien (1),65,66,65,65,€2.7M,26,5
+113459,Kristiansund BK,Norway,no,id4171564101829091315,Norwegian Eliteserien (1),64,64,63,64,€750K,22,5
+1463,FK Haugesund,Norway,no,id4171564101829091315,Norwegian Eliteserien (1),63,62,64,64,€1.1M,22,4
+917,Stabæk Fotball,Norway,no,id4171564101829091315,Norwegian Eliteserien (1),65,63,64,64,€750K,26,3
+1456,Odds BK,Norway,no,id4171564101829091315,Norwegian Eliteserien (1),64,63,63,66,€1.7M,22,3
+112420,Mjøndalen IF,Norway,no,id4171564101829091315,Norwegian Eliteserien (1),62,61,63,62,€600K,25,3
+112199,Sarpsborg 08 FF,Norway,no,id4171564101829091315,Norwegian Eliteserien (1),65,65,63,63,€2M,27,2
+112200,Ranheim Fotball,Norway,no,id4171564101829091315,Norwegian Eliteserien (1),62,61,63,61,€500K,18,2
+299,Lillestrøm SK,Norway,no,id4171564101829091315,Norwegian Eliteserien (1),62,63,64,63,€1.5M,19,1
+101108,Olimpia Asunción,Paraguay,py,id4627631661774018550,Paraguayan Primera División (1),73,74,72,71,€50K,30,12
+111008,Club Libertad,Paraguay,py,id4627631661774018550,Paraguayan Primera División (1),70,70,70,71,€50K,29,7
+111329,Club Guaraní,Paraguay,py,id4627631661774018550,Paraguayan Primera División (1),67,69,67,64,€50K,29,4
+112671,Nacional Asunción,Paraguay,py,id4627631661774018550,Paraguayan Primera División (1),65,67,64,62,€2.3M,30,3
+111006,Sportivo Luqueño,Paraguay,py,id4627631661774018550,Paraguayan Primera División (1),61,62,60,61,€50K,30,2
+112080,Sol de América,Paraguay,py,id4627631661774018550,Paraguayan Primera División (1),64,64,65,64,€2M,30,1
+114575,River Plate Asunción,Paraguay,py,id4627631661774018550,Paraguayan Primera División (1),65,66,59,65,€1.6M,30,1
+111010,Alianza Lima,Peru,pe,id7206673159936307132,Peruvian Primera División (1),67,67,69,67,€50K,30,9
+114582,Deportivo Binacional,Peru,pe,id7206673159936307132,Peruvian Primera División (1),68,69,67,67,€2.5M,27,8
+112659,Cusco FC,Peru,pe,id7206673159936307132,Peruvian Primera División (1),64,65,64,65,€2.1M,24,4
+114511,Sport Huancayo,Peru,pe,id7206673159936307132,Peruvian Primera División (1),65,66,66,63,€2.2M,28,3
+111334,Melgar FBC,Peru,pe,id7206673159936307132,Peruvian Primera División (1),65,64,66,63,€50K,29,2
+114598,Club Atlético Grau,Peru,pe,id7206673159936307132,Peruvian Primera División (1),63,65,62,60,€1.7M,24,1
+873,Lech Poznań,Poland,pl,id2430333795152800620,Polish T-Mobile Ekstraklasa (1),67,67,66,68,€4.7M,27,33
+1871,Legia Warszawa,Poland,pl,id2430333795152800620,Polish T-Mobile Ekstraklasa (1),68,69,70,68,€7.4M,26,33
+1873,Wisła Kraków,Poland,pl,id2430333795152800620,Polish T-Mobile Ekstraklasa (1),67,64,67,66,€2.9M,27,16
+111086,Piast Gliwice,Poland,pl,id2430333795152800620,Polish T-Mobile Ekstraklasa (1),67,67,66,68,€3.2M,27,9
+110747,Cracovia,Poland,pl,id2430333795152800620,Polish T-Mobile Ekstraklasa (1),67,72,67,67,€3.8M,27,8
+111091,Lechia Gdańsk,Poland,pl,id2430333795152800620,Polish T-Mobile Ekstraklasa (1),67,67,65,68,€4.4M,27,8
+110745,Jagiellonia Białystok,Poland,pl,id2430333795152800620,Polish T-Mobile Ekstraklasa (1),67,64,68,67,€4.1M,27,7
+111083,Korona Kielce,Poland,pl,id2430333795152800620,Polish T-Mobile Ekstraklasa (1),64,67,64,62,€2.5M,27,6
+420,Górnik Zabrze,Poland,pl,id2430333795152800620,Polish T-Mobile Ekstraklasa (1),65,68,65,65,€2.6M,26,5
+111092,Śląsk Wrocław,Poland,pl,id2430333795152800620,Polish T-Mobile Ekstraklasa (1),66,65,66,65,€3.1M,27,5
+110749,Zagłębie Lubin,Poland,pl,id2430333795152800620,Polish T-Mobile Ekstraklasa (1),66,61,66,66,€3.1M,27,4
+1569,Wisła Płock,Poland,pl,id2430333795152800620,Polish T-Mobile Ekstraklasa (1),65,65,66,64,€2.4M,27,3
+114326,Raków Częstochowa,Poland,pl,id2430333795152800620,Polish T-Mobile Ekstraklasa (1),64,65,63,64,€2.1M,23,3
+110746,Pogoń Szczecin,Poland,pl,id2430333795152800620,Polish T-Mobile Ekstraklasa (1),66,65,65,66,€2.4M,25,2
+111082,Arka Gdynia,Poland,pl,id2430333795152800620,Polish T-Mobile Ekstraklasa (1),65,65,65,64,€2.5M,27,2
+111085,LKS Lodz,Poland,pl,id2430333795152800620,Polish T-Mobile Ekstraklasa (1),62,61,59,61,€2.3M,27,2
+234,SL Benfica,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),79,78,80,80,€25.3M,25,206
+236,FC Porto,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),79,78,78,82,€23M,25,110
+237,Sporting CP,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),76,74,77,78,€21.6M,28,108
+1896,SC Braga,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),76,77,77,76,€14M,27,95
+1887,Vitória Guimarães,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),74,72,74,75,€5.9M,30,73
+1898,Boavista FC,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),71,70,71,71,€2.4M,25,34
+112809,Famalicão,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),72,74,74,71,€3.1M,24,34
+744,Rio Ave FC,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),73,73,74,73,€2.9M,26,33
+1438,Santa Clara,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),70,69,70,69,€1.8M,23,20
+665,Vitória de Setúbal,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),70,69,70,70,€2.1M,30,17
+1892,FC Paços de Ferreira,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),69,69,70,68,€2M,25,17
+1893,Clube Sport Marítimo,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),70,70,69,71,€3.9M,27,17
+10031,Portimonense SC,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),70,71,71,69,€3.8M,29,15
+112516,CD Tondela,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),69,69,68,69,€1.8M,24,14
+666,CD Aves,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),67,68,68,67,€2M,30,12
+1888,Gil Vicente FC,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),71,71,71,70,€1.7M,25,12
+1900,Moreirense FC,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),71,72,71,71,€2.9M,28,11
+1889,Os Belenenses,Portugal,pt,id6116446273949684896,Portuguese Liga ZON SAGRES (1),69,69,67,69,€2.2M,30,10
+305,Bohemian FC,Republic of Ireland,ie,id8076261224457182144,Rep. Ireland Airtricity League (1),60,61,61,59,€530K,25,58
+111132,UCD AFC,Republic of Ireland,ie,id8076261224457182144,Rep. Ireland Airtricity League (1),53,54,54,53,€500K,24,25
+306,Shamrock Rovers,Republic of Ireland,ie,id8076261224457182144,Rep. Ireland Airtricity League (1),63,65,63,63,€700K,24,20
+837,Dundalk,Republic of Ireland,ie,id8076261224457182144,Rep. Ireland Airtricity League (1),64,69,64,65,€900K,24,17
+422,Cork City,Republic of Ireland,ie,id8076261224457182144,Rep. Ireland Airtricity League (1),56,56,56,55,€850K,25,10
+445,Derry City,Republic of Ireland,ie,id8076261224457182144,Rep. Ireland Airtricity League (1),59,62,59,59,€510K,24,8
+753,Waterford FC,Republic of Ireland,ie,id8076261224457182144,Rep. Ireland Airtricity League (1),56,55,56,57,€520K,20,8
+563,Sligo Rovers,Republic of Ireland,ie,id8076261224457182144,Rep. Ireland Airtricity League (1),58,55,58,58,€515K,23,7
+111131,Finn Harps,Republic of Ireland,ie,id8076261224457182144,Rep. Ireland Airtricity League (1),56,55,56,56,€500K,25,6
+423,St. Patrick's Athletic,Republic of Ireland,ie,id8076261224457182144,Rep. Ireland Airtricity League (1),60,60,61,60,€525K,22,5
+100761,FCSB (Steaua),Romania,ro,id7905632484083498615,Romanian Liga I (1),70,72,68,69,€8.3M,27,20
+110816,CFR Cluj,Romania,ro,id7905632484083498615,Romanian Liga I (1),71,70,68,71,€6.1M,27,13
+114147,FC Hermannstadt,Romania,ro,id7905632484083498615,Romanian Liga I (1),64,65,64,63,€2.1M,27,12
+113182,FC Voluntari,Romania,ro,id7905632484083498615,Romanian Liga I (1),65,66,66,63,€2M,27,10
+308,Universitatea Craiova,Romania,ro,id7905632484083498615,Romanian Liga I (1),68,66,69,68,€3.7M,27,8
+113180,FC Viitorul,Romania,ro,id7905632484083498615,Romanian Liga I (1),67,67,67,67,€3.2M,27,7
+100757,Dinamo Bucureşti,Romania,ro,id7905632484083498615,Romanian Liga I (1),65,66,66,64,€3M,27,6
+113378,Sepsi OSK,Romania,ro,id7905632484083498615,Romanian Liga I (1),65,64,65,64,€3.1M,26,6
+110752,FC Botoşani,Romania,ro,id7905632484083498615,Romanian Liga I (1),66,66,66,64,€2.9M,27,5
+112637,Gaz Metan Mediaş,Romania,ro,id7905632484083498615,Romanian Liga I (1),66,68,67,66,€2.3M,27,5
+112847,Astra Giurgiu,Romania,ro,id7905632484083498615,Romanian Liga I (1),68,70,69,68,€2.9M,27,4
+113391,Academica Clinceni,Romania,ro,id7905632484083498615,Romanian Liga I (1),63,62,61,62,€1.6M,24,3
+110815,Politehnica Iaşi,Romania,ro,id7905632484083498615,Romanian Liga I (1),64,65,65,64,€2.3M,27,2
+113387,Chindia Târgovişte,Romania,ro,id7905632484083498615,Romanian Liga I (1),63,62,62,62,€1.9M,27,1
+100765,Lokomotiv Moscow,Russia,ru,id6542147435803244210,Russian Premier League (1),75,73,77,74,€15.7M,28,37
+315,PFC CSKA Moscow,Russia,ru,id6542147435803244210,Russian Premier League (1),74,74,75,71,€15M,23,35
+100767,Spartak Moscow,Russia,ru,id6542147435803244210,Russian Premier League (1),74,73,74,74,€27.6M,28,31
+605,Al Hilal,Saudi Arabia,sa,id7172330928625766207,Saudi Abdul L. Jameel League (1),74,77,75,70,€28.3M,26,26
+112387,Al Ahli,Saudi Arabia,sa,id7172330928625766207,Saudi Abdul L. Jameel League (1),71,77,72,69,€17M,30,25
+607,Al Ittihad,Saudi Arabia,sa,id7172330928625766207,Saudi Abdul L. Jameel League (1),68,70,68,66,€19.8M,30,22
+112139,Al Nassr,Saudi Arabia,sa,id7172330928625766207,Saudi Abdul L. Jameel League (1),71,79,72,69,€16.3M,30,18
+112393,Al Taawoun,Saudi Arabia,sa,id7172330928625766207,Saudi Abdul L. Jameel League (1),68,69,68,66,€3.4M,30,14
+111674,Al Shabab,Saudi Arabia,sa,id7172330928625766207,Saudi Abdul L. Jameel League (1),68,73,71,65,€6.6M,25,8
+112096,Ettifaq FC,Saudi Arabia,sa,id7172330928625766207,Saudi Abdul L. Jameel League (1),67,66,69,64,€3.4M,30,6
+112390,Al Fateh,Saudi Arabia,sa,id7172330928625766207,Saudi Abdul L. Jameel League (1),65,67,63,64,€2.3M,27,6
+113058,Abha Club,Saudi Arabia,sa,id7172330928625766207,Saudi Abdul L. Jameel League (1),63,62,64,63,€1.1M,25,6
+112389,Al Faisaly,Saudi Arabia,sa,id7172330928625766207,Saudi Abdul L. Jameel League (1),66,67,66,66,€2.9M,23,4
+112408,Al Wehda,Saudi Arabia,sa,id7172330928625766207,Saudi Abdul L. Jameel League (1),66,67,68,65,€3.8M,30,4
+113222,Al Hazem,Saudi Arabia,sa,id7172330928625766207,Saudi Abdul L. Jameel League (1),65,70,65,62,€1.1M,28,4
+112392,Al Raed,Saudi Arabia,sa,id7172330928625766207,Saudi Abdul L. Jameel League (1),64,65,66,63,€2.3M,27,3
+113345,Al Adalah,Saudi Arabia,sa,id7172330928625766207,Saudi Abdul L. Jameel League (1),63,64,64,62,€1.1M,28,3
+113217,Damac FC,Saudi Arabia,sa,id7172330928625766207,Saudi Abdul L. Jameel League (1),64,70,62,64,€1.4M,29,2
+113057,Al Fayha,Saudi Arabia,sa,id7172330928625766207,Saudi Abdul L. Jameel League (1),66,68,68,63,€2.9M,28,1
+78,Celtic,Scotland,gb-sct,id7747305078141592167,Scottish Premiership (1),74,74,75,73,€14.6M,28,172
+86,Rangers FC,Scotland,gb-sct,id7747305078141592167,Scottish Premiership (1),73,74,72,73,€8.3M,28,58
+80,Heart of Midlothian,Scotland,gb-sct,id7747305078141592167,Scottish Premiership (1),68,68,65,68,€2.3M,28,38
+77,Aberdeen,Scotland,gb-sct,id7747305078141592167,Scottish Premiership (1),68,67,68,68,€2.3M,26,23
+83,Motherwell,Scotland,gb-sct,id7747305078141592167,Scottish Premiership (1),67,67,67,66,€900K,26,13
+184,Hamilton Academical FC,Scotland,gb-sct,id7747305078141592167,Scottish Premiership (1),62,60,62,62,€500K,28,11
+100805,St. Mirren,Scotland,gb-sct,id7747305078141592167,Scottish Premiership (1),63,64,63,60,€750K,28,11
+81,Hibernian,Scotland,gb-sct,id7747305078141592167,Scottish Premiership (1),67,68,68,66,€3M,25,9
+82,Kilmarnock,Scotland,gb-sct,id7747305078141592167,Scottish Premiership (1),67,64,67,67,€1.5M,25,8
+621,Livingston FC,Scotland,gb-sct,id7747305078141592167,Scottish Premiership (1),65,67,64,64,€650K,28,7
+100804,St. Johnstone FC,Scotland,gb-sct,id7747305078141592167,Scottish Premiership (1),65,64,65,64,€700K,25,5
+631,Ross County FC,Scotland,gb-sct,id7747305078141592167,Scottish Premiership (1),63,63,63,63,€600K,23,4
+110930,Orlando Pirates,South Africa,za,id593928135571861220,South African Premier Division (1),68,68,67,67,€2.6M,28,8
+110929,Kaizer Chiefs,South Africa,za,id593928135571861220,South African Premier Division (1),70,72,69,68,€2.2M,28,7
+241,FC Barcelona,Spain,es,id7591765676653738291,Spain Primera Division (1),86,88,85,85,€187.9M,33,1000
+243,Real Madrid,Spain,es,id7591765676653738291,Spain Primera Division (1),86,85,87,85,€188.5M,33,506
+240,Atlético Madrid,Spain,es,id7591765676653738291,Spain Primera Division (1),83,81,83,82,€68.6M,33,383
+461,Valencia CF,Spain,es,id7591765676653738291,Spain Primera Division (1),81,81,81,81,€66.3M,33,219
+481,Sevilla FC,Spain,es,id7591765676653738291,Spain Primera Division (1),80,79,81,80,€34.5M,31,193
+449,Real Betis,Spain,es,id7591765676653738291,Spain Primera Division (1),80,81,81,78,€16.1M,33,133
+483,Villarreal CF,Spain,es,id7591765676653738291,Spain Primera Division (1),79,80,79,78,€32.9M,33,121
+457,Real Sociedad,Spain,es,id7591765676653738291,Spain Primera Division (1),79,81,80,77,€15.8M,31,113
+448,Athletic Club de Bilbao,Spain,es,id7591765676653738291,Spain Primera Division (1),79,79,79,79,€18.5M,31,106
+450,RC Celta,Spain,es,id7591765676653738291,Spain Primera Division (1),77,80,77,76,€11.8M,33,68
+452,RCD Espanyol,Spain,es,id7591765676653738291,Spain Primera Division (1),77,78,78,76,€10.4M,33,67
+453,RCD Mallorca,Spain,es,id7591765676653738291,Spain Primera Division (1),73,76,73,72,€2.3M,28,62
+110832,Granada CF,Spain,es,id7591765676653738291,Spain Primera Division (1),75,76,75,75,€5.5M,33,61
+462,Real Valladolid CF,Spain,es,id7591765676653738291,Spain Primera Division (1),76,76,76,73,€3.1M,33,54
+1860,Getafe CF,Spain,es,id7591765676653738291,Spain Primera Division (1),78,80,77,78,€5.4M,33,52
+1853,Levante UD,Spain,es,id7591765676653738291,Spain Primera Division (1),77,77,77,76,€8.2M,32,46
+463,Deportivo Alavés,Spain,es,id7591765676653738291,Spain Primera Division (1),76,76,75,76,€4.4M,33,45
+100888,CD Leganés,Spain,es,id7591765676653738291,Spain Primera Division (1),75,75,75,75,€4.2M,30,41
+479,CA Osasuna,Spain,es,id7591765676653738291,Spain Primera Division (1),74,76,74,74,€4.4M,30,31
+467,SD Eibar,Spain,es,id7591765676653738291,Spain Primera Division (1),77,77,78,75,€5.4M,28,30
+242,Deportivo de La Coruña,Spain,es,id2268757523475796736,Spanish Segunda División (2),70,71,70,68,€7.9M,30,67
+472,UD Las Palmas,Spain,es,id2268757523475796736,Spanish Segunda División (2),70,70,70,69,€8.6M,30,58
+573,Málaga CF,Spain,es,id2268757523475796736,Spanish Segunda División (2),70,70,70,69,€9.9M,30,51
+110062,Girona FC,Spain,es,id2268757523475796736,Spanish Segunda División (2),73,76,72,73,€4.3M,29,51
+244,Real Zaragoza,Spain,es,id2268757523475796736,Spanish Segunda División (2),72,73,72,72,€2.7M,30,41
+1861,UD Almería,Spain,es,id2268757523475796736,Spanish Segunda División (2),71,70,71,70,€5.9M,30,39
+468,Elche CF,Spain,es,id2268757523475796736,Spanish Segunda División (2),69,74,69,67,€1.7M,29,36
+480,Rayo Vallecano,Spain,es,id2268757523475796736,Spanish Segunda División (2),72,69,71,71,€3.3M,30,35
+110839,SD Huesca,Spain,es,id2268757523475796736,Spanish Segunda División (2),72,73,72,72,€2.1M,30,31
+1968,Cádiz CF,Spain,es,id2268757523475796736,Spanish Segunda División (2),71,70,72,71,€2M,30,27
+260,CD Tenerife,Spain,es,id2268757523475796736,Spanish Segunda División (2),69,70,70,69,€2M,30,26
+459,Real Sporting de Gijón,Spain,es,id2268757523475796736,Spanish Segunda División (2),70,70,70,70,€4.8M,30,23
+477,CD Numancia,Spain,es,id2268757523475796736,Spanish Segunda División (2),68,68,68,68,€2M,27,21
+1854,Albacete BP,Spain,es,id2268757523475796736,Spanish Segunda División (2),69,69,69,69,€1.5M,30,19
+456,Racing Santander,Spain,es,id2268757523475796736,Spanish Segunda División (2),67,67,68,67,€2M,30,17
+110827,Real Oviedo,Spain,es,id2268757523475796736,Spanish Segunda División (2),69,69,69,68,€2M,30,17
+110065,CF Fuenlabrada,Spain,es,id2268757523475796736,Spanish Segunda División (2),68,68,69,68,€1.5M,24,15
+2023,SD Ponferradina,Spain,es,id2268757523475796736,Spanish Segunda División (2),68,71,68,67,€2M,24,12
+100831,AD Alcorcón,Spain,es,id2268757523475796736,Spanish Segunda División (2),69,70,67,69,€1.6M,30,11
+110831,CD Lugo,Spain,es,id2268757523475796736,Spanish Segunda División (2),68,67,68,68,€1.6M,30,10
+110069,CD Mirandés,Spain,es,id2268757523475796736,Spanish Segunda División (2),68,69,68,66,€1.5M,25,9
+469,Extremadura UD,Spain,es,id2268757523475796736,Spanish Segunda División (2),68,69,68,67,€1.3M,28,7
+320,Malmö FF,Sweden,se,id6413855923138885337,Swedish Allsvenskan (1),70,68,72,69,€9.1M,27,27
+433,AIK,Sweden,se,id6413855923138885337,Swedish Allsvenskan (1),68,69,70,65,€5.5M,26,17
+319,IFK Göteborg,Sweden,se,id6413855923138885337,Swedish Allsvenskan (1),65,69,66,64,€1M,20,14
+702,IFK Norrköping,Sweden,se,id6413855923138885337,Swedish Allsvenskan (1),66,67,68,64,€4.7M,23,10
+708,Hammarby IF,Sweden,se,id6413855923138885337,Swedish Allsvenskan (1),69,70,69,67,€3.2M,27,9
+432,Helsingborgs IF,Sweden,se,id6413855923138885337,Swedish Allsvenskan (1),64,65,62,65,€750K,24,6
+710,Djurgårdens IF,Sweden,se,id6413855923138885337,Swedish Allsvenskan (1),67,66,67,69,€3.8M,22,5
+705,Örebro SK,Sweden,se,id6413855923138885337,Swedish Allsvenskan (1),63,63,63,63,€1.5M,27,4
+112169,Falkenbergs FF,Sweden,se,id6413855923138885337,Swedish Allsvenskan (1),61,59,62,62,€550K,24,4
+112171,AFC Eskilstuna,Sweden,se,id6413855923138885337,Swedish Allsvenskan (1),60,61,59,59,€500K,25,4
+113173,Östersunds FK,Sweden,se,id6413855923138885337,Swedish Allsvenskan (1),62,60,63,62,€2.9M,27,4
+700,IF Elfsborg,Sweden,se,id6413855923138885337,Swedish Allsvenskan (1),64,63,66,64,€2M,22,3
+711,BK Häcken,Sweden,se,id6413855923138885337,Swedish Allsvenskan (1),66,65,65,66,€3.3M,24,2
+1439,Kalmar FF,Sweden,se,id6413855923138885337,Swedish Allsvenskan (1),62,62,63,63,€800K,22,2
+1596,GIF Sundsvall,Sweden,se,id6413855923138885337,Swedish Allsvenskan (1),63,64,62,62,€750K,18,2
+113458,IK Sirius,Sweden,se,id6413855923138885337,Swedish Allsvenskan (1),63,63,64,64,€600K,26,2
+896,FC Basel 1893,Switzerland,ch,id2297006774327539847,Swiss Super League (1),72,73,71,72,€12.2M,27,27
+900,BSC Young Boys,Switzerland,ch,id2297006774327539847,Swiss Super League (1),72,76,72,71,€7.4M,27,19
+894,FC Zürich,Switzerland,ch,id2297006774327539847,Swiss Super League (1),66,61,66,67,€3.5M,26,18
+898,FC St. Gallen,Switzerland,ch,id2297006774327539847,Swiss Super League (1),66,65,67,65,€4.6M,27,16
+10032,FC Lugano,Switzerland,ch,id2297006774327539847,Swiss Super League (1),66,67,66,66,€1.8M,27,8
+324,Servette FC,Switzerland,ch,id2297006774327539847,Swiss Super League (1),65,66,65,65,€3.2M,25,7
+897,FC Luzern,Switzerland,ch,id2297006774327539847,Swiss Super League (1),67,65,67,67,€3.3M,27,7
+110770,FC Sion,Switzerland,ch,id2297006774327539847,Swiss Super League (1),66,61,70,65,€5.9M,27,7
+435,Neuchâtel Xamax,Switzerland,ch,id2297006774327539847,Swiss Super League (1),64,68,64,64,€2.7M,27,6
+1715,FC Thun,Switzerland,ch,id2297006774327539847,Swiss Super League (1),64,65,65,64,€3.4M,27,4
+326,Fenerbahçe SK,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),75,76,76,73,€29.2M,25,88
+325,Galatasaray SK,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),77,79,77,76,€27.9M,30,87
+327,Beşiktaş JK,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),76,78,76,75,€29.2M,25,50
+436,Trabzonspor,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),73,77,74,72,€14.3M,28,30
+101014,Medipol Başakşehir FK,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),75,76,74,75,€13.6M,23,21
+101041,Sivasspor,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),71,70,70,70,€4M,26,16
+101037,Çaykur Rizespor,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),71,70,71,69,€2.5M,27,10
+110776,Gazişehir Gaziantep F.K.,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),71,72,71,70,€3.8M,28,9
+111339,Kasimpaşa SK,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),70,72,71,68,€4.1M,30,9
+741,Antalyaspor,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),71,73,71,69,€6.6M,28,8
+101020,Kayserispor,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),70,70,69,70,€2.3M,30,8
+101026,Göztepe SK,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),72,74,72,69,€3.7M,27,8
+101033,Atiker Konyaspor,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),70,72,69,70,€5.2M,24,8
+113142,Alanyaspor,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),72,76,72,71,€3.2M,26,8
+1457,Denizlispor,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),70,74,70,70,€2.8M,25,7
+101025,Gençlerbirliği SK,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),70,73,70,69,€3.5M,26,6
+101007,MKE Ankaragücü,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),70,70,68,70,€2.8M,27,5
+113259,Yeni Malatyaspor,Turkey,tr,id1555684761044200033,Turkish Süper Lig (1),70,70,71,69,€3.4M,29,3
+111701,Al Ain FC,United Arab Emirates,ae,id3820805201934486347,UAE Arabian Gulf League (1),68,75,70,65,€12.2M,28,6
+101059,Shakhtar Donetsk,Ukraine,ua,id3030696713692650468,Ukrainian Premier League (1),75,78,76,72,€18.6M,28,47
+101047,Dynamo Kyiv,Ukraine,ua,id3030696713692650468,Ukrainian Premier League (1),74,74,75,73,€15.8M,27,45
+101110,Peñarol,Uruguay,uy,id8082574887770312159,Uruguayan Primera División (1),71,72,69,69,€100K,30,20
+111325,Nacional de Montevideo,Uruguay,uy,id8082574887770312159,Uruguayan Primera División (1),70,73,70,69,€100K,30,19
+111002,Centro Atlético Fénix,Uruguay,uy,id8082574887770312159,Uruguayan Primera División (1),65,60,65,65,€100K,30,6
+114024,Club Plaza Colonia,Uruguay,uy,id8082574887770312159,Uruguayan Primera División (1),64,62,64,65,€1.4M,24,5
+111326,Liverpool Fútbol Club,Uruguay,uy,id8082574887770312159,Uruguayan Primera División (1),65,64,64,63,€100K,29,3
+112184,River Plate Montevideo,Uruguay,uy,id8082574887770312159,Uruguayan Primera División (1),64,65,65,63,€1.6M,30,3
+697,LA Galaxy,United States,us,id3298285397137806425,USA Major League Soccer (1),70,78,72,66,€37.1M,25,43
+111651,Toronto FC,United States,us,id3298285397137806425,USA Major League Soccer (1),71,75,72,69,€31.9M,28,41
+112885,Atlanta United,United States,us,id3298285397137806425,USA Major League Soccer (1),70,77,67,68,€38.3M,25,41
+112996,Los Angeles FC,United States,us,id3298285397137806425,USA Major League Soccer (1),70,73,72,67,€36.8M,23,39
+689,New York Red Bulls,United States,us,id3298285397137806425,USA Major League Soccer (1),70,69,69,70,€24.7M,27,31
+687,Columbus Crew SC,United States,us,id3298285397137806425,USA Major League Soccer (1),71,69,72,70,€18.4M,27,30
+111144,Seattle Sounders FC,United States,us,id3298285397137806425,USA Major League Soccer (1),71,73,73,69,€32.5M,23,29
+111140,Portland Timbers,United States,us,id3298285397137806425,USA Major League Soccer (1),71,72,72,70,€31.6M,27,28
+112606,Orlando City SC,United States,us,id3298285397137806425,USA Major League Soccer (1),68,70,68,66,€25M,27,28
+112828,New York City FC,United States,us,id3298285397137806425,USA Major League Soccer (1),70,69,71,71,€31.3M,26,24
+696,Sporting Kansas City,United States,us,id3298285397137806425,USA Major League Soccer (1),71,72,73,70,€27.2M,28,22
+695,FC Dallas,United States,us,id3298285397137806425,USA Major League Soccer (1),69,70,69,70,€19.8M,27,21
+113149,FC Cincinnati,United States,us,id3298285397137806425,USA Major League Soccer (1),69,70,69,69,€24.3M,29,21
+111139,Montreal Impact,United States,us,id3298285397137806425,USA Major League Soccer (1),69,71,72,64,€19.1M,27,20
+111065,Real Salt Lake,United States,us,id3298285397137806425,USA Major League Soccer (1),68,71,69,67,€20.9M,30,19
+688,DC United,United States,us,id3298285397137806425,USA Major League Soccer (1),70,75,70,69,€27.5M,23,18
+111928,San Jose Earthquakes,United States,us,id3298285397137806425,USA Major League Soccer (1),69,69,70,69,€23.6M,28,17
+112134,Philadelphia Union,United States,us,id3298285397137806425,USA Major League Soccer (1),69,70,69,68,€21.3M,25,17
+694,Colorado Rapids,United States,us,id3298285397137806425,USA Major League Soccer (1),69,74,69,67,€17.6M,24,15
+101112,Vancouver Whitecaps FC,United States,us,id3298285397137806425,USA Major League Soccer (1),68,72,68,68,€19.5M,29,14
+698,Houston Dynamo,United States,us,id3298285397137806425,USA Major League Soccer (1),69,67,71,69,€23.9M,27,11
+691,New England Revolution,United States,us,id3298285397137806425,USA Major League Soccer (1),69,71,69,68,€21.6M,26,10
+693,Chicago Fire,United States,us,id3298285397137806425,USA Major League Soccer (1),69,72,67,67,€27.9M,25,9
+111138,Minnesota United FC,United States,us,id3298285397137806425,USA Major League Soccer (1),68,65,70,68,€25.4M,24,8
+110989,Caracas FC,Venezuela,ve,id8973675926393352914,Venezuelan Primera División (1),63,64,64,63,€500K,30,5
+111332,Estudiantes de Mérida,Venezuela,ve,id8973675926393352914,Venezuelan Primera División (1),63,61,64,61,€100K,29,3
+114623,Llaneros de Guanare,Venezuela,ve,id8973675926393352914,Venezuelan Primera División (1),60,61,60,60,€730K,20,3
+110992,AC Mineros de Guayana,Venezuela,ve,id8973675926393352914,Venezuelan Primera División (1),63,64,64,61,€100K,25,2
+112912,Zamora FC,Venezuela,ve,id8973675926393352914,Venezuelan Primera División (1),61,61,60,61,€1.4M,28,2
+112916,Aragua FC,Venezuela,ve,id8973675926393352914,Venezuelan Primera División (1),62,62,62,62,€1.4M,21,2

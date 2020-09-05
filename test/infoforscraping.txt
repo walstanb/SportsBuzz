@@ -1,0 +1,40 @@
+https://sofifa.com/teams?type=all&showCol%5B0%5D=oa&showCol%5B1%5D=at&showCol%5B2%5D=md&showCol%5B3%5D=df&showCol%5B4%5D=tb&showCol%5B5%5D=ps&showCol%5B6%5D=ti&offset=240
+https://sofifa.com/teams?type=all&showCol%5B0%5D=oa&showCol%5B1%5D=at&showCol%5B2%5D=md&showCol%5B3%5D=df&showCol%5B4%5D=tb&showCol%5B5%5D=ps&showCol%5B6%5D=ti&offset=300
+
+https://sofifa.com/teams?type=all&col=ti&sort=asc&showCol%5B%5D=ti&showCol%5B%5D=oa&showCol%5B%5D=at&showCol%5B%5D=md&showCol%5B%5D=df&showCol%5B%5D=tb&showCol%5B%5D=ps&showCol%5B%5D=dw
+
+https://sofifa.com/teams?type=all&col=ti&sort=asc&showCol%5B0%5D=ti&showCol%5B1%5D=oa&showCol%5B2%5D=at&showCol%5B3%5D=md&showCol%5B4%5D=df&showCol%5B5%5D=tb&showCol%5B6%5D=ps&showCol%5B7%5D=dw&offset=60
+
+Team Name
+/html/body/div[1]/div/div/div[1]/table/tbody/tr[1]/td[2]/a[1]/div/txt()
+
+Img tag with country info and flag id
+/html/body/div[1]/div/div/div[1]/table/tbody/tr[1]/td[2]/a[2]/div/img/
+
+name of league
+/html/body/div[1]/div/div/div[1]/table/tbody/tr[1]/td[2]/a[2]/div/text()
+
+team id/club id
+/html/body/div[1]/div/div/div[1]/table/tbody/tr[1]/td[3]/text()
+
+team overall
+/html/body/div[1]/div/div/div[1]/table/tbody/tr[1]/td[4]/span/text()
+
+team att
+/html/body/div[1]/div/div/div[1]/table/tbody/tr[1]/td[5]/span/text()
+
+team mid
+/html/body/div[1]/div/div/div[1]/table/tbody/tr[1]/td[6]/span/text()
+
+team def
+/html/body/div[1]/div/div/div[1]/table/tbody/tr[1]/td[7]/span/text()
+
+team transfer budget
+/html/body/div[1]/div/div/div[1]/table/tbody/tr[1]/td[8]/text()
+
+no of players
+/html/body/div[1]/div/div/div[1]/table/tbody/tr[1]/td[9]/text()
+
+hits
+/html/body/div[1]/div/div/div[1]/table/tbody/tr[1]/td[10]/text()
+
